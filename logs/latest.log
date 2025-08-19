@@ -1,50 +1,456 @@
-[00:04:19] [Server thread/INFO]: Erempla has made the advancement [Take Aim]
-[00:04:59] [Server thread/INFO]: <Superkuba07> spruce ist näher am farbton aber oak ist ein kontrasst
-[00:05:11] [Server thread/INFO]: <Superkuba07> musst du gucken wofür du gehen möchtest
-[00:06:59] [Server thread/INFO]: Ryze447 has made the advancement [A Seedy Place]
-[00:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[00:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[00:12:18] [Server thread/INFO]: <Superkuba07> habt ihr bambus gefunden?
-[00:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:15:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-166, y=54, z=-133} jb{x=-157, y=54, z=-134}
-[00:16:23] [Server thread/INFO]: GamyYT has made the advancement [Best Friends Forever]
-[00:16:26] [Server thread/INFO]: Erempla was slain by Phantom
-[00:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:22:57] [Server thread/INFO]: Ryze447 lost connection: Disconnected
-[00:22:57] [Server thread/INFO]: Ryze447 left the game
-[00:23:40] [Server thread/INFO]: SchachMats has made the advancement [The Cutest Predator]
-[00:23:41] [Server thread/INFO]: GamyYT has made the advancement [Isn't It Iron Pick]
-[00:24:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=916, y=119, z=-1075} jb{x=918, y=118, z=-1076}
-[00:25:59] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
-[00:25:59] [Server thread/INFO]: CSkiller07 left the game
-[00:28:49] [Server thread/INFO]: <SchachMats> tschau tschau
-[00:28:55] [Server thread/INFO]: <Superkuba07> nachti
-[00:28:58] [Server thread/INFO]: <JsusIsTheOne> liege wie
-[00:29:02] [Server thread/INFO]: <GamyYT> liege wie
-[00:29:08] [Server thread/INFO]: SchachMats lost connection: Disconnected
-[00:29:08] [Server thread/INFO]: SchachMats left the game
-[00:32:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=347, y=-30, z=-362} jb{x=348, y=-30, z=-361}
-[00:40:10] [Server thread/INFO]: GamyYT has made the advancement [Hot Stuff]
-[00:45:11] [Server thread/INFO]: <JsusIsTheOne> xaero-waypoint:SPAWNER:S:423:-42:-523:0:false:0:Internal-overworld
-[00:53:52] [Server thread/INFO]: GamyYT lost connection: Disconnected
-[00:53:52] [Server thread/INFO]: GamyYT left the game
-[00:55:13] [Server thread/INFO]: Superkuba07 has made the advancement [The Cutest Predator]
-[00:56:38] [Server thread/INFO]: JsusIsTheOne has made the advancement [The Cutest Predator]
-[00:57:10] [Server thread/INFO]: Erempla has made the advancement [Sweet Dreams]
-[01:47:35] [Server thread/INFO]: Erempla lost connection: Disconnected
-[01:47:35] [Server thread/INFO]: Erempla left the game
-[01:59:03] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[01:59:03] [Server thread/INFO]: Superkuba07 left the game
-[01:59:18] [Server thread/INFO]: [JsusIsTheOne: Stopping the server]
-[01:59:18] [Server thread/INFO]: Stopping server
-[01:59:18] [Server thread/INFO]: Saving players
-[01:59:18] [Server thread/INFO]: Saving worlds
-[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:44:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:44:55] [ServerMain/INFO]: Loaded 1407 recipes
+[10:44:55] [ServerMain/INFO]: Loaded 1520 advancements
+[10:44:55] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[10:44:55] [Server thread/INFO]: Loading properties
+[10:44:55] [Server thread/INFO]: Default game type: SURVIVAL
+[10:44:55] [Server thread/INFO]: Generating keypair
+[10:44:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:44:55] [Server thread/INFO]: Using default channel type
+[10:44:55] [Server thread/INFO]: Preparing level "world"
+[10:44:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:44:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:44:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:44:57] [Server thread/INFO]: Time elapsed: 1026 ms
+[10:44:57] [Server thread/INFO]: Done (1.571s)! For help, type "help"
+[10:45:12] [User Authenticator #1/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[10:45:13] [Server thread/INFO]: Superkuba07[/5.146.196.186:16755] logged in with entity id 12 at (479.69999998807907, 64.0, -441.07070761492264)
+[10:45:13] [Server thread/INFO]: Superkuba07 joined the game
+[10:49:07] [User Authenticator #2/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
+[10:49:08] [Server thread/INFO]: Erempla[/91.10.89.122:63654] logged in with entity id 1047 at (851.5, 120.0, -1035.5)
+[10:49:08] [Server thread/INFO]: Erempla joined the game
+[10:49:19] [Server thread/INFO]: KittyScan (/176.65.148.158:51608) lost connection: Disconnected
+[10:59:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[10:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=523, y=72, z=-437} jb{x=523, y=71, z=-438}
+[11:01:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=532, y=70, z=-468} jb{x=532, y=71, z=-469}
+[11:01:30] [User Authenticator #3/INFO]: UUID of player JsusIsTheOne is cc6c1254-c508-4b99-9686-9c80381eadec
+[11:01:31] [Server thread/INFO]: JsusIsTheOne[/127.0.0.1:51931] logged in with entity id 9509 at (483.3059300984722, 65.0, -442.30000001192093)
+[11:01:31] [Server thread/INFO]: JsusIsTheOne joined the game
+[11:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=533, y=68, z=-476} jb{x=532, y=67, z=-475}
+[11:02:33] [Server thread/WARN]: JsusIsTheOne moved wrongly!
+[11:02:33] [Server thread/WARN]: JsusIsTheOne moved wrongly!
+[11:08:01] [Server thread/INFO]: <Superkuba07> xaero-waypoint:Base:B:475:73:-448:13:false:0:Internal-overworld
+[11:17:10] [Server thread/INFO]: Superkuba07 has made the advancement [Take Aim]
+[11:21:50] [Server thread/INFO]: Villager cuf['Weaponsmith'/16962, l='ServerLevel[world]', x=239.30, y=66.00, z=-910.50] died, message: 'Weaponsmith was slain by Zombie'
+[11:25:47] [User Authenticator #4/INFO]: UUID of player BZvone is d27e7827-3dbb-4f97-a9bf-ba6422e24462
+[11:25:47] [Server thread/INFO]: BZvone[/80.246.120.3:10817] logged in with entity id 21878 at (-222.89736332375853, 79.0, -1595.8350988515772)
+[11:25:47] [Server thread/INFO]: BZvone joined the game
+[11:27:59] [Server thread/INFO]: BZvone has made the advancement [Ice Bucket Challenge]
+[11:29:54] [Server thread/INFO]: BZvone has made the advancement [Monster Hunter]
+[11:30:29] [Server thread/INFO]: Villager cuf['Villager'/21515, l='ServerLevel[world]', x=840.32, y=118.00, z=-1052.94] died, message: 'Villager was slain by Erempla'
+[11:30:39] [Server thread/INFO]: BZvone has made the advancement [Diamonds!]
+[11:41:31] [Server thread/INFO]: Erempla has made the advancement [We Need to Go Deeper]
+[11:42:35] [Server thread/INFO]: Erempla has made the advancement [Hidden in the Depths]
+[11:56:58] [Server thread/INFO]: Erempla was blown up by Creeper
+[12:00:25] [Server thread/INFO]: Ryze447 (/176.6.59.85:15055) lost connection: Disconnected
+[12:00:33] [User Authenticator #5/INFO]: UUID of player Ryze447 is ee652dde-56e8-424d-9000-f2887173a765
+[12:00:34] [Server thread/INFO]: Ryze447[/176.6.59.85:15096] logged in with entity id 43961 at (841.4392840608994, 120.0, -1050.0530324530196)
+[12:00:34] [Server thread/INFO]: Ryze447 joined the game
+[12:01:28] [Server thread/INFO]: Ryze447 was shot by Skeleton
+[12:01:33] [Server thread/INFO]: BZvone lost connection: Disconnected
+[12:01:33] [Server thread/INFO]: BZvone left the game
+[12:01:55] [User Authenticator #6/INFO]: UUID of player BZvone is d27e7827-3dbb-4f97-a9bf-ba6422e24462
+[12:01:55] [Server thread/INFO]: BZvone[/80.246.120.3:10790] logged in with entity id 45110 at (-424.5079874762538, 67.0, -1829.5721379193205)
+[12:01:55] [Server thread/INFO]: BZvone joined the game
+[12:07:36] [Server thread/INFO]: Ryze447 has made the advancement [The Parrots and the Bats]
+[12:07:59] [User Authenticator #7/INFO]: UUID of player Salzkartoffel21 is d0606d99-caf8-4a16-a8b9-58e59d71b76a
+[12:07:59] [Server thread/INFO]: Salzkartoffel21[/80.246.120.34:9711] logged in with entity id 50399 at (-445.8375472739636, 78.0, -1585.0914771168373)
+[12:07:59] [Server thread/INFO]: Salzkartoffel21 joined the game
+[12:08:17] [Server thread/WARN]: Failed to update secure chat state for JsusIsTheOne: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[12:09:30] [Server thread/INFO]: Salzkartoffel21 has made the advancement [Diamonds!]
+[12:10:21] [Server thread/INFO]: BZvone has made the advancement [A Seedy Place]
+[12:12:27] [Server thread/INFO]: BZvone has made the advancement [We Need to Go Deeper]
+[12:12:30] [Server thread/INFO]: Salzkartoffel21 has made the advancement [We Need to Go Deeper]
+[12:13:41] [Server thread/INFO]: BZvone has made the advancement [Cover Me with Diamonds]
+[12:13:49] [Server thread/INFO]: Erempla has made the advancement [Those Were the Days]
+[12:15:33] [Server thread/INFO]: Salzkartoffel21 has completed the challenge [Return to Sender]
+[12:16:23] [Server thread/INFO]: BZvone lost connection: Disconnected
+[12:16:23] [Server thread/INFO]: BZvone left the game
+[12:28:45] [Server thread/INFO]: Salzkartoffel21 has made the advancement [What a Deal!]
+[12:34:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=61, y=63, z=-75} jb{x=62, y=57, z=-72}
+[12:37:28] [Server thread/INFO]: Erempla has made the advancement [Stay Hydrated!]
+[12:37:36] [Server thread/INFO]: Ryze447 has made the advancement [Stay Hydrated!]
+[12:48:15] [Server thread/INFO]: JsusIsTheOne has made the advancement [Oh Shiny]
+[12:49:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=66, z=-101} jb{x=94, y=67, z=-99}
+[12:50:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=66, z=-101} jb{x=96, y=66, z=-99}
+[12:50:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=66, z=-101} jb{x=95, y=65, z=-101}
+[12:50:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=66, z=-101} jb{x=96, y=65, z=-99}
+[12:53:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=81, z=-86} jb{x=97, y=66, z=-103}
+[12:53:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=81, z=-86} jb{x=95, y=65, z=-100}
+[12:53:36] [Server thread/INFO]: Superkuba07 has made the advancement [Stay Hydrated!]
+[12:53:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=81, z=-86} jb{x=94, y=65, z=-100}
+[12:54:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=65, z=-101} jb{x=95, y=65, z=-101}
+[12:54:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=65, z=-101} jb{x=92, y=66, z=-103}
+[12:55:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=65, z=-101} jb{x=96, y=65, z=-104}
+[12:56:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=66, z=-99} jb{x=96, y=65, z=-103}
+[12:56:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=66, z=-99} jb{x=94, y=65, z=-101}
+[12:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=66, z=-99} jb{x=95, y=65, z=-104}
+[12:59:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=95, y=64, z=-105} jb{x=92, y=66, z=-100}
+[13:00:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=95, y=64, z=-105} jb{x=95, y=66, z=-95}
+[13:02:39] [User Authenticator #8/INFO]: UUID of player BZvone is d27e7827-3dbb-4f97-a9bf-ba6422e24462
+[13:02:40] [Server thread/INFO]: BZvone[/80.246.120.3:10778] logged in with entity id 104445 at (-227.14344380419325, 80.0, -1596.6075821915153)
+[13:02:40] [Server thread/INFO]: BZvone joined the game
+[13:03:28] [Server thread/INFO]: BZvone has made the advancement [Enchanter]
+[13:10:20] [Server thread/INFO]: JsusIsTheOne has made the advancement [What a Deal!]
+[13:11:53] [Server thread/INFO]: Salzkartoffel21 has made the advancement [Enchanter]
+[13:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[13:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[13:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[13:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[13:16:12] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[13:16:12] [Server thread/INFO]: Superkuba07 left the game
+[13:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[13:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[13:16:58] [Server thread/INFO]: BZvone has made the advancement [Hot Stuff]
+[13:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[13:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[13:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:24:29] [Server thread/INFO]: Salzkartoffel21 lost connection: Disconnected
+[13:24:29] [Server thread/INFO]: Salzkartoffel21 left the game
+[13:27:10] [Server thread/INFO]: BZvone has made the advancement [The Parrots and the Bats]
+[13:31:46] [Server thread/INFO]: BZvone has made the advancement [What a Deal!]
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/3679, l='ServerLevel[world]', x=466.29, y=52.56, z=-439.50] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/62, l='ServerLevel[world]', x=470.55, y=52.56, z=-435.99] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/64, l='ServerLevel[world]', x=467.00, y=52.00, z=-436.21] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/66, l='ServerLevel[world]', x=468.77, y=52.00, z=-435.41] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/68, l='ServerLevel[world]', x=467.94, y=52.00, z=-435.50] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/69, l='ServerLevel[world]', x=469.48, y=52.48, z=-436.42] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/3106, l='ServerLevel[world]', x=470.11, y=52.56, z=-435.50] died, message: 'Villager was blown up by Creeper'
+[13:31:58] [Server thread/INFO]: Villager cuf['Villager'/6484, l='ServerLevel[world]', x=470.46, y=52.56, z=-436.58] died, message: 'Villager was blown up by Creeper'
+[13:37:43] [Server thread/INFO]: Villager cuf['Villager'/71751, l='ServerLevel[world]', x=855.92, y=96.23, z=-1088.31] died, message: 'Villager tried to swim in lava'
+[13:38:41] [Server thread/INFO]: Villager cuf['Villager'/41194, l='ServerLevel[world]', x=855.66, y=96.60, z=-1088.10] died, message: 'Villager tried to swim in lava'
+[13:41:12] [User Authenticator #9/INFO]: UUID of player Salzkartoffel21 is d0606d99-caf8-4a16-a8b9-58e59d71b76a
+[13:41:13] [Server thread/INFO]: Salzkartoffel21[/80.246.120.34:10269] logged in with entity id 147413 at (-156.56235433933426, 70.0, -1806.2966597840998)
+[13:41:13] [Server thread/INFO]: Salzkartoffel21 joined the game
+[13:44:56] [Server thread/INFO]: Salzkartoffel21 has made the advancement [Hot Stuff]
+[13:46:47] [Server thread/INFO]: Named entity cso['Nigger Nr1'/79242, l='ServerLevel[world]', x=856.30, y=116.71, z=-1077.30] died: Nigger Nr1 was slain by Iron Golem
+[13:47:23] [Server thread/INFO]: Villager cuf['Nitwit'/136368, l='ServerLevel[world]', x=-153.93, y=66.56, z=-1803.30] died, message: 'Nitwit was slain by Salzkartoffel21'
+[13:47:32] [Server thread/INFO]: Villager cuf['Villager'/136371, l='ServerLevel[world]', x=-153.85, y=66.56, z=-1803.30] died, message: 'Villager was slain by Salzkartoffel21'
+[13:47:43] [Server thread/INFO]: BZvone lost connection: Disconnected
+[13:47:43] [Server thread/INFO]: BZvone left the game
+[13:53:54] [Server thread/INFO]: Ryze447 lost connection: Disconnected
+[13:53:54] [Server thread/INFO]: Ryze447 left the game
+[13:55:04] [Netty Server IO #12/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at zl.a(SourceFile:50) ~[server-1.21.8.jar:?]
+	at zl.encode(SourceFile:14) ~[server-1.21.8.jar:?]
+	at wr.a(SourceFile:26) ~[server-1.21.8.jar:?]
+	at wr.encode(SourceFile:12) ~[server-1.21.8.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd$2.write(SourceFile:525) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd.c(SourceFile:351) ~[server-1.21.8.jar:?]
+	at wd.b(SourceFile:343) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:325) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:319) ~[server-1.21.8.jar:?]
+	at wd.exceptionCaught(SourceFile:170) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-155, y=68, z=-1808} jb{x=-155, y=69, z=-1807}
+[13:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-155, y=69, z=-1807} jb{x=-155, y=68, z=-1807}
+[13:57:53] [Server thread/INFO]: Superkuba07 (/5.146.196.186:7299) lost connection: Disconnected
+[13:57:57] [Server thread/INFO]: Superkuba07 (/5.146.196.186:7353) lost connection: Disconnected
+[13:58:00] [Server thread/INFO]: Superkuba07 (/5.146.196.186:16745) lost connection: Disconnected
+[13:58:08] [Server thread/INFO]: Superkuba07 (/5.146.196.186:7323) lost connection: Disconnected
+[13:58:19] [Server thread/INFO]: Superkuba07 (/5.146.196.186:7336) lost connection: Disconnected
+[14:03:00] [User Authenticator #10/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[14:03:01] [Server thread/INFO]: Superkuba07[/5.146.196.186:4454] logged in with entity id 165764 at (473.1701331529969, 65.0, -439.00237539584083)
+[14:03:01] [Server thread/INFO]: Superkuba07 joined the game
+[14:04:08] [Server thread/INFO]: Salzkartoffel21 has made the advancement [Cover Me with Diamonds]
+[14:07:18] [User Authenticator #11/INFO]: UUID of player Ryze447 is ee652dde-56e8-424d-9000-f2887173a765
+[14:07:18] [Server thread/INFO]: Ryze447[/176.6.59.85:15087] logged in with entity id 170047 at (617.3000000119209, 97.0, -916.4438025661029)
+[14:07:18] [Server thread/INFO]: Ryze447 joined the game
+[14:11:48] [Server thread/INFO]: Ryze447 has made the advancement [Minecraft: Trial(s) Edition]
+[14:12:20] [Server thread/INFO]: Villager cuf['Villager'/136334, l='ServerLevel[world]', x=-182.46, y=88.00, z=-1801.42] died, message: 'Villager was slain by Salzkartoffel21'
+[14:12:29] [Server thread/INFO]: Ryze447 was impaled on a stalagmite
+[14:13:49] [Server thread/INFO]: <JsusIsTheOne> braucht wer nacht
+[14:18:59] [Server thread/INFO]: JsusIsTheOne lost connection: Disconnected
+[14:18:59] [Server thread/INFO]: JsusIsTheOne left the game
+[14:18:59] [Server thread/WARN]: handleDisconnection() called twice
+[14:19:04] [User Authenticator #12/INFO]: UUID of player JsusIsTheOne is cc6c1254-c508-4b99-9686-9c80381eadec
+[14:19:04] [Server thread/INFO]: JsusIsTheOne[/127.0.0.1:57708] logged in with entity id 180872 at (472.74371876888256, 65.0, -435.9420518937349)
+[14:19:04] [Server thread/INFO]: JsusIsTheOne joined the game
+[14:19:25] [Server thread/INFO]: Villager cuf['Villager'/41197, l='ServerLevel[world]', x=849.71, y=111.00, z=-1080.14] died, message: 'Villager was slain by Erempla'
+[14:22:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=39, z=-61} jb{x=79, y=38, z=-61}
+[14:22:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=78, y=20, z=-45} jb{x=78, y=20, z=-44}
+[14:23:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=78, y=20, z=-45} jb{x=78, y=20, z=-44}
+[14:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=25, y=14, z=-288} jb{x=28, y=14, z=-287}
+[14:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=25, y=14, z=-288} jb{x=28, y=14, z=-287}
+[14:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=25, y=14, z=-288} jb{x=28, y=14, z=-287}
+[14:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=25, y=14, z=-288} jb{x=28, y=14, z=-287}
+[14:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:27:01] [Server thread/INFO]: Villager cuf['Leatherworker'/89926, l='ServerLevel[world]', x=872.70, y=119.00, z=-1029.46] died, message: 'Leatherworker was slain by Zombie'
+[14:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:29:19] [Server thread/INFO]: Ryze447 fell from a high place
+[14:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[14:33:09] [Server thread/INFO]: Villager cuf['Leatherworker'/62385, l='ServerLevel[world]', x=856.46, y=118.00, z=-1024.42] died, message: 'Leatherworker was slain by Zombie'
+[14:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:33:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-420, y=13, z=-112} jb{x=-418, y=13, z=-112}
+[14:33:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-420, y=13, z=-112} jb{x=-421, y=13, z=-112}
+[14:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:34:30] [Server thread/INFO]: Villager cuf['Villager'/41196, l='ServerLevel[world]', x=854.89, y=114.50, z=-1084.47] died, message: 'Villager was slain by Zombie'
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-287, y=14, z=-370} jb{x=-285, y=15, z=-369}
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-287, y=14, z=-370} jb{x=-285, y=15, z=-369}
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-287, y=14, z=-370} jb{x=-285, y=15, z=-369}
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-287, y=14, z=-370} jb{x=-285, y=15, z=-369}
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-287, y=14, z=-370} jb{x=-285, y=15, z=-369}
+[14:36:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-286, y=14, z=-367} jb{x=-285, y=15, z=-369}
+[14:37:58] [Server thread/INFO]: JsusIsTheOne has completed the challenge [Hot Tourist Destinations]
+[14:38:30] [Netty Server IO #29/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at zl.a(SourceFile:50) ~[server-1.21.8.jar:?]
+	at zl.encode(SourceFile:14) ~[server-1.21.8.jar:?]
+	at wr.a(SourceFile:26) ~[server-1.21.8.jar:?]
+	at wr.encode(SourceFile:12) ~[server-1.21.8.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd$2.write(SourceFile:525) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd.c(SourceFile:351) ~[server-1.21.8.jar:?]
+	at wd.b(SourceFile:343) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:325) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:319) ~[server-1.21.8.jar:?]
+	at wd.exceptionCaught(SourceFile:170) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:43:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-279, y=13, z=-385} jb{x=-273, y=13, z=-383}
+[14:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:43:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-288, y=14, z=-374} jb{x=-292, y=14, z=-375}
+[14:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[14:45:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[14:45:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-399, y=13, z=-419} jb{x=-400, y=13, z=-420}
+[14:45:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-399, y=13, z=-419} jb{x=-400, y=13, z=-420}
+[14:45:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-399, y=13, z=-419} jb{x=-400, y=13, z=-420}
+[14:45:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-399, y=13, z=-419} jb{x=-400, y=13, z=-420}
+[14:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-427, y=13, z=-336} jb{x=-426, y=13, z=-336}
+[14:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:47:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-303, y=12, z=-319} jb{x=-304, y=12, z=-319}
+[14:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[14:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[14:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[14:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[14:49:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-79, y=15, z=-241} jb{x=-79, y=14, z=-241}
+[14:49:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-79, y=15, z=-241} jb{x=-79, y=14, z=-241}
+[14:50:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-66, y=13, z=-183} jb{x=-65, y=14, z=-186}
+[14:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[14:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:51:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:51:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=51, y=15, z=-101} jb{x=47, y=13, z=-82}
+[14:52:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:55:05] [Server thread/INFO]: Ryze447 was slain by Iron Golem
+[14:57:37] [Server thread/INFO]: Named entity cso['Nigger der II.'/226213, l='ServerLevel[world]', x=856.30, y=116.90, z=-1077.49] died: Nigger der II. was slain by Iron Golem
+[15:05:35] [Server thread/INFO]: Ryze447 lost connection: Disconnected
+[15:05:35] [Server thread/INFO]: Ryze447 left the game
+[15:20:44] [Server thread/INFO]: Salzkartoffel21 lost connection: Disconnected
+[15:20:44] [Server thread/INFO]: Salzkartoffel21 left the game
+[15:38:11] [Server thread/INFO]: JsusIsTheOne has completed the challenge [Cover Me in Debris]
+[16:36:42] [Server thread/INFO]: Villager cuf['Villager'/140393, l='ServerLevel[world]', x=857.00, y=119.19, z=-1060.75] died, message: 'Villager was slain by Zombie'
+[16:52:01] [Server thread/INFO]: JsusIsTheOne has completed the challenge [Bullseye]
+[16:55:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=89, y=35, z=-65} jb{x=90, y=34, z=-65}
+[16:55:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=89, y=35, z=-65} jb{x=90, y=34, z=-65}
+[16:55:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=71, y=22, z=-64} jb{x=69, y=20, z=-64}
+[16:55:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=68, y=10, z=-97} jb{x=66, y=10, z=-94}
+[16:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=64, y=11, z=-483} jb{x=64, y=11, z=-480}
+[16:58:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=64, y=11, z=-483} jb{x=64, y=10, z=-479}
+[17:01:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=23, y=13, z=-401} jb{x=20, y=12, z=-400}
+[17:01:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=23, y=13, z=-401} jb{x=20, y=12, z=-400}
+[17:01:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-37, y=11, z=-401} jb{x=-37, y=10, z=-401}
+[17:04:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-428, y=11, z=-401} jb{x=-417, y=10, z=-397}
+[17:05:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-416, y=10, z=-324} jb{x=-416, y=11, z=-326}
+[17:09:11] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[17:09:11] [Server thread/INFO]: Superkuba07 left the game
+[17:09:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-294, y=11, z=-303} jb{x=-300, y=11, z=-302}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-295, y=11, z=-303} jb{x=-294, y=10, z=-305}
+[17:10:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-240, y=11, z=-291} jb{x=-240, y=10, z=-291}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=11, z=-282} jb{x=-223, y=11, z=-282}
+[17:11:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-149, y=10, z=-285} jb{x=-151, y=11, z=-286}
+[17:14:36] [Server thread/INFO]: Villager cuf['Leatherworker'/83234, l='ServerLevel[world]', x=812.92, y=120.00, z=-1068.42] died, message: 'Leatherworker was slain by Zombie'
+[17:18:19] [User Authenticator #13/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[17:18:19] [Server thread/INFO]: Superkuba07[/5.146.196.186:7320] logged in with entity id 346750 at (469.31783452566475, 65.0, -436.76249998807907)
+[17:18:19] [Server thread/INFO]: Superkuba07 joined the game
+[17:23:56] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[17:23:56] [Server thread/INFO]: Superkuba07 left the game
+[17:26:14] [User Authenticator #14/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[17:26:14] [Server thread/INFO]: Superkuba07[/5.146.196.186:3737] logged in with entity id 350052 at (465.1346600023219, 52.0, -436.36200932150575)
+[17:26:14] [Server thread/INFO]: Superkuba07 joined the game
+[17:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=175, y=14, z=-118} jb{x=175, y=13, z=-119}
+[17:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=175, y=14, z=-118} jb{x=175, y=13, z=-119}
+[17:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=175, y=14, z=-118} jb{x=175, y=13, z=-119}
+[17:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=175, y=14, z=-118} jb{x=175, y=13, z=-119}
+[17:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=465, y=14, z=-177} jb{x=466, y=13, z=-176}
+[17:55:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=731, y=14, z=-192} jb{x=730, y=13, z=-192}
+[18:17:07] [User Authenticator #15/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
+[18:17:08] [Server thread/INFO]: sunset_online[/89.1.208.177:56889] logged in with entity id 414006 at (77.5, 71.0, 92.5)
+[18:17:08] [Server thread/INFO]: sunset_online joined the game
+[18:17:40] [Server thread/WARN]: Failed to update secure chat state for JsusIsTheOne: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[18:17:40] [Server thread/INFO]: <JsusIsTheOne> braucht wer nacht
+[18:17:51] [Server thread/INFO]: <Superkuba07> xaero-waypoint:Base:B:475:73:-448:13:false:0:Internal-overworld
+[18:17:54] [Server thread/INFO]: <JsusIsTheOne> xaero-waypoint:BASE:B:471:66:-440:12:false:0:Internal-overworld
+[18:19:19] [Server thread/INFO]: sunset_online has made the advancement [Stone Age]
+[18:19:42] [Server thread/INFO]: sunset_online has made the advancement [Getting an Upgrade]
+[18:20:26] [Server thread/INFO]: You whisper to JsusIsTheOne: leck eier
+[18:20:34] [Server thread/INFO]: You whisper to sunset_online: leck eier
+[18:21:42] [Server thread/INFO]: sunset_online has made the advancement [Cover Me with Diamonds]
+[18:22:05] [Server thread/INFO]: sunset_online has made the advancement [Diamonds!]
+[18:24:12] [Server thread/INFO]: sunset_online has made the advancement [What a Deal!]
+[18:24:26] [Server thread/INFO]: JsusIsTheOne lost connection: Disconnected
+[18:24:26] [Server thread/INFO]: JsusIsTheOne left the game
+[18:24:32] [User Authenticator #16/INFO]: UUID of player Ryze447 is ee652dde-56e8-424d-9000-f2887173a765
+[18:24:33] [Server thread/INFO]: Ryze447[/176.6.58.137:57868] logged in with entity id 420561 at (842.3935543278769, 119.0587968405392, -1038.8095577004467)
+[18:24:33] [Server thread/INFO]: Ryze447 joined the game
+[18:26:32] [Server thread/INFO]: <Superkuba07> xaero-waypoint:DA:D:434:63:-510:2:false:0:Internal-overworld
+[18:29:55] [Server thread/INFO]: sunset_online has made the advancement [Monster Hunter]
+[18:30:41] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[18:30:41] [Server thread/INFO]: Superkuba07 left the game
+[18:33:15] [Server thread/INFO]: Ryze447 has made the advancement [Local Brewery]
+[18:33:24] [Server thread/INFO]: sunset_online lost connection: Disconnected
+[18:33:24] [Server thread/INFO]: sunset_online left the game
+[18:39:16] [User Authenticator #17/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
+[18:39:17] [Server thread/INFO]: sunset_online[/89.1.208.177:57311] logged in with entity id 432120 at (434.76249998807907, -55.0, -515.4612683269833)
+[18:39:17] [Server thread/INFO]: sunset_online joined the game
+[18:39:48] [Server thread/INFO]: <sunset_online> Fortnite mit den Jungs
+[18:40:12] [Server thread/INFO]: <sunset_online> Penis in dein Mund
+[18:42:54] [Server thread/INFO]: sunset_online has made the advancement [Sweet Dreams]
+[18:47:32] [User Authenticator #18/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[18:47:33] [Server thread/INFO]: Superkuba07[/5.146.196.186:5625] logged in with entity id 440159 at (466.53156551883933, 51.0, -438.1644212094917)
+[18:47:33] [Server thread/INFO]: Superkuba07 joined the game
+[18:49:18] [Server thread/INFO]: Ryze447 has made the advancement [Best Friends Forever]
+[18:52:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=469, y=50, z=-440} jb{x=60, y=13, z=-38}
+[18:56:18] [Server thread/INFO]: <Superkuba07> xaero-waypoint:Carlo/Till:C:800:76:-1000:15:false:0:Internal-overworld
+[18:56:22] [Server thread/INFO]: Erempla was slain by Phantom
+[19:03:51] [Server thread/INFO]: sunset_online has made the advancement [Acquire Hardware]
+[19:10:25] [Server thread/INFO]: Ryze447 has made the advancement [We Need to Go Deeper]
+[19:17:26] [Server thread/INFO]: sunset_online has made the advancement [Enchanter]
+[19:23:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=275, y=14, z=-161} jb{x=272, y=13, z=-160}
+[19:23:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=277, y=14, z=-161} jb{x=278, y=13, z=-161}
+[19:34:14] [Server thread/INFO]: sunset_online lost connection: Disconnected
+[19:34:14] [Server thread/INFO]: sunset_online left the game
+[19:36:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=193, y=15, z=-467} jb{x=194, y=14, z=-465}
+[19:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=211, y=11, z=-465} jb{x=213, y=12, z=-465}
+[19:40:04] [Server thread/INFO]: JsusIsTheOne (/127.0.0.1:1310) lost connection: Disconnected
+[19:42:44] [Server thread/INFO]: Erempla burned to death
+[19:42:55] [User Authenticator #19/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
+[19:42:56] [Server thread/INFO]: sunset_online[/89.1.208.177:57243] logged in with entity id 539853 at (430.30000001192093, -51.0, -515.0942160345093)
+[19:42:56] [Server thread/INFO]: sunset_online joined the game
+[19:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:48:24] [Server thread/INFO]: sunset_online has made the advancement [A Seedy Place]
+[19:48:59] [Server thread/INFO]: Ryze447 has made the advancement [Hidden in the Depths]
+[19:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-28, y=15, z=-256} jb{x=-29, y=15, z=-256}
+[19:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-28, y=15, z=-256} jb{x=-29, y=15, z=-256}
+[19:49:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-28, y=15, z=-256} jb{x=-29, y=15, z=-256}
+[19:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:50:32] [Server thread/INFO]: MCScans (/45.148.10.134:46090) lost connection: Disconnected
+[19:52:39] [Server thread/INFO]: sunset_online lost connection: Disconnected
+[19:52:39] [Server thread/INFO]: sunset_online left the game
+[19:56:17] [Server thread/INFO]: Ryze447 lost connection: Disconnected
+[19:56:17] [Server thread/INFO]: Ryze447 left the game
+[20:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=175, y=11, z=-223} jb{x=176, y=12, z=-224}
+[20:03:27] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[20:03:27] [Server thread/INFO]: Superkuba07 left the game
+[20:13:39] [Server thread/INFO]: Erempla lost connection: Disconnected
+[20:13:39] [Server thread/INFO]: Erempla left the game
+[20:13:46] [Server thread/INFO]: Stopping the server
+[20:13:46] [Server thread/INFO]: Stopping server
+[20:13:46] [Server thread/INFO]: Saving players
+[20:13:46] [Server thread/INFO]: Saving worlds
+[20:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
