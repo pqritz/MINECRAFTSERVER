@@ -15,6 +15,7 @@
       "minecraft:deep_ocean": "2025-08-18 16:44:06 +0200",
       "minecraft:river": "2025-08-18 16:41:52 +0200",
       "minecraft:stony_shore": "2025-08-18 16:34:32 +0200",
+      "minecraft:snowy_plains": "2025-08-20 00:17:28 +0200",
       "minecraft:lush_caves": "2025-08-18 16:57:11 +0200",
       "minecraft:dripstone_caves": "2025-08-18 17:26:44 +0200",
       "minecraft:deep_cold_ocean": "2025-08-18 16:44:09 +0200",
@@ -22,7 +23,8 @@
       "minecraft:ocean": "2025-08-18 16:40:25 +0200",
       "minecraft:meadow": "2025-08-19 00:01:13 +0200",
       "minecraft:birch_forest": "2025-08-18 16:33:27 +0200",
-      "minecraft:plains": "2025-08-18 17:36:51 +0200"
+      "minecraft:plains": "2025-08-18 17:36:51 +0200",
+      "minecraft:pale_garden": "2025-08-19 21:36:37 +0200"
     },
     "done": false
   },
@@ -3232,6 +3234,42 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-08-19 19:08:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-08-19 20:45:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-19 21:23:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-20 00:17:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-20 00:18:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-20 00:18:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-20 00:17:41 +0200"
     },
     "done": true
   },
