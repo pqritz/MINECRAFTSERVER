@@ -1,0 +1,50 @@
+[00:04:19] [Server thread/INFO]: Erempla has made the advancement [Take Aim]
+[00:04:59] [Server thread/INFO]: <Superkuba07> spruce ist näher am farbton aber oak ist ein kontrasst
+[00:05:11] [Server thread/INFO]: <Superkuba07> musst du gucken wofür du gehen möchtest
+[00:06:59] [Server thread/INFO]: Ryze447 has made the advancement [A Seedy Place]
+[00:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:12:18] [Server thread/INFO]: <Superkuba07> habt ihr bambus gefunden?
+[00:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:15:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-166, y=54, z=-133} jb{x=-157, y=54, z=-134}
+[00:16:23] [Server thread/INFO]: GamyYT has made the advancement [Best Friends Forever]
+[00:16:26] [Server thread/INFO]: Erempla was slain by Phantom
+[00:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:22:57] [Server thread/INFO]: Ryze447 lost connection: Disconnected
+[00:22:57] [Server thread/INFO]: Ryze447 left the game
+[00:23:40] [Server thread/INFO]: SchachMats has made the advancement [The Cutest Predator]
+[00:23:41] [Server thread/INFO]: GamyYT has made the advancement [Isn't It Iron Pick]
+[00:24:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=916, y=119, z=-1075} jb{x=918, y=118, z=-1076}
+[00:25:59] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[00:25:59] [Server thread/INFO]: CSkiller07 left the game
+[00:28:49] [Server thread/INFO]: <SchachMats> tschau tschau
+[00:28:55] [Server thread/INFO]: <Superkuba07> nachti
+[00:28:58] [Server thread/INFO]: <JsusIsTheOne> liege wie
+[00:29:02] [Server thread/INFO]: <GamyYT> liege wie
+[00:29:08] [Server thread/INFO]: SchachMats lost connection: Disconnected
+[00:29:08] [Server thread/INFO]: SchachMats left the game
+[00:32:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=347, y=-30, z=-362} jb{x=348, y=-30, z=-361}
+[00:40:10] [Server thread/INFO]: GamyYT has made the advancement [Hot Stuff]
+[00:45:11] [Server thread/INFO]: <JsusIsTheOne> xaero-waypoint:SPAWNER:S:423:-42:-523:0:false:0:Internal-overworld
+[00:53:52] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[00:53:52] [Server thread/INFO]: GamyYT left the game
+[00:55:13] [Server thread/INFO]: Superkuba07 has made the advancement [The Cutest Predator]
+[00:56:38] [Server thread/INFO]: JsusIsTheOne has made the advancement [The Cutest Predator]
+[00:57:10] [Server thread/INFO]: Erempla has made the advancement [Sweet Dreams]
+[01:47:35] [Server thread/INFO]: Erempla lost connection: Disconnected
+[01:47:35] [Server thread/INFO]: Erempla left the game
+[01:59:03] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[01:59:03] [Server thread/INFO]: Superkuba07 left the game
+[01:59:18] [Server thread/INFO]: [JsusIsTheOne: Stopping the server]
+[01:59:18] [Server thread/INFO]: Stopping server
+[01:59:18] [Server thread/INFO]: Saving players
+[01:59:18] [Server thread/INFO]: Saving worlds
+[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:59:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
