@@ -1,4 +1,4 @@
-java -Xmx8192M -Xms2048M -jar server.jar nogui
+java -Xmx4096M -Xms2048M -jar server.jar
 
 echo "Server stopped. Starting GitHub backup..."
 

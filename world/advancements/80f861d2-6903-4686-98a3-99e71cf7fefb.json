@@ -7,26 +7,36 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-08-18 16:44:19 +0200",
+      "minecraft:cold_ocean": "2025-08-20 14:37:55 +0200",
       "minecraft:old_growth_pine_taiga": "2025-08-19 11:23:18 +0200",
-      "minecraft:dark_forest": "2025-08-19 11:10:27 +0200",
       "minecraft:forest": "2025-08-18 16:45:03 +0200",
       "minecraft:taiga": "2025-08-18 17:41:08 +0200",
+      "minecraft:deep_ocean": "2025-08-20 14:38:07 +0200",
+      "minecraft:lush_caves": "2025-08-18 17:44:19 +0200",
+      "minecraft:deep_cold_ocean": "2025-08-20 18:46:36 +0200",
+      "minecraft:frozen_river": "2025-08-18 17:28:23 +0200",
+      "minecraft:ocean": "2025-08-18 16:47:33 +0200",
+      "minecraft:jungle": "2025-08-18 16:45:26 +0200",
+      "minecraft:cherry_grove": "2025-08-20 19:24:00 +0200",
+      "minecraft:birch_forest": "2025-08-18 16:34:00 +0200",
+      "minecraft:old_growth_spruce_taiga": "2025-08-19 11:23:02 +0200",
+      "minecraft:windswept_savanna": "2025-08-20 15:46:11 +0200",
+      "minecraft:deep_lukewarm_ocean": "2025-08-20 14:40:22 +0200",
+      "minecraft:beach": "2025-08-18 16:44:19 +0200",
+      "minecraft:dark_forest": "2025-08-19 11:10:27 +0200",
+      "minecraft:sparse_jungle": "2025-08-20 19:29:23 +0200",
       "minecraft:river": "2025-08-18 16:44:00 +0200",
+      "minecraft:lukewarm_ocean": "2025-08-20 14:40:06 +0200",
       "minecraft:stony_shore": "2025-08-18 16:35:27 +0200",
       "minecraft:snowy_plains": "2025-08-18 17:26:24 +0200",
-      "minecraft:lush_caves": "2025-08-18 17:44:19 +0200",
       "minecraft:dripstone_caves": "2025-08-18 17:28:56 +0200",
       "minecraft:snowy_taiga": "2025-08-18 17:27:25 +0200",
       "minecraft:old_growth_birch_forest": "2025-08-18 16:44:12 +0200",
-      "minecraft:frozen_river": "2025-08-18 17:28:23 +0200",
       "minecraft:deep_dark": "2025-08-18 18:13:27 +0200",
-      "minecraft:ocean": "2025-08-18 16:47:33 +0200",
-      "minecraft:jungle": "2025-08-18 16:45:26 +0200",
       "minecraft:grove": "2025-08-18 18:10:21 +0200",
+      "minecraft:swamp": "2025-08-20 18:49:54 +0200",
       "minecraft:meadow": "2025-08-18 17:16:24 +0200",
-      "minecraft:birch_forest": "2025-08-18 16:34:00 +0200",
-      "minecraft:old_growth_spruce_taiga": "2025-08-19 11:23:02 +0200",
+      "minecraft:savanna": "2025-08-20 14:42:45 +0200",
       "minecraft:plains": "2025-08-18 16:45:06 +0200",
       "minecraft:pale_garden": "2025-08-19 21:25:23 +0200"
     },
@@ -503,6 +513,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-18 17:24:17 +0200",
+      "apple": "2025-08-20 18:46:36 +0200",
       "bread": "2025-08-19 00:46:32 +0200",
       "cooked_chicken": "2025-08-18 16:52:40 +0200",
       "cooked_mutton": "2025-08-18 17:10:17 +0200",
@@ -932,18 +943,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-08-18 23:26:45 +0200",
+      "minecraft:pillager": "2025-08-20 19:00:35 +0200",
       "minecraft:skeleton": "2025-08-18 18:13:15 +0200",
       "minecraft:phantom": "2025-08-18 23:39:08 +0200",
+      "minecraft:witch": "2025-08-18 17:51:24 +0200",
+      "minecraft:ghast": "2025-08-19 12:16:17 +0200",
+      "minecraft:hoglin": "2025-08-19 12:16:44 +0200",
+      "minecraft:cave_spider": "2025-08-18 23:26:45 +0200",
       "minecraft:enderman": "2025-08-19 11:24:22 +0200",
       "minecraft:magma_cube": "2025-08-19 22:30:30 +0200",
-      "minecraft:witch": "2025-08-18 17:51:24 +0200",
       "minecraft:spider": "2025-08-18 22:24:54 +0200",
       "minecraft:zombie": "2025-08-18 17:06:02 +0200",
       "minecraft:creeper": "2025-08-18 17:11:37 +0200",
-      "minecraft:zombie_villager": "2025-08-18 22:39:06 +0200",
-      "minecraft:ghast": "2025-08-19 12:16:17 +0200",
-      "minecraft:hoglin": "2025-08-19 12:16:44 +0200"
+      "minecraft:drowned": "2025-08-20 14:36:32 +0200",
+      "minecraft:zombie_villager": "2025-08-18 22:39:06 +0200"
     },
     "done": false
   },
@@ -2641,27 +2654,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_stone": "2025-08-20 00:08:20 +0200"
+      "has_logs": "2025-08-19 20:18:12 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
-      "has_stone": "2025-08-20 00:08:20 +0200"
+      "has_log": "2025-08-19 20:18:12 +0200"
     },
     "done": true
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-08-19 22:28:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-20 00:08:20 +0200"
     },
     "done": true
   },
@@ -2677,15 +2684,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-19 22:28:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-08-19 22:28:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-20 00:08:20 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_snowball": "2025-08-20 00:15:26 +0200"
+      "has_stone": "2025-08-20 00:08:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-20 00:08:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-20 00:08:20 +0200"
     },
     "done": true
   },
@@ -2698,18 +2729,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-20 00:08:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-08-19 20:18:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-08-19 20:18:12 +0200"
     },
     "done": true
   },
@@ -2743,33 +2762,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-08-20 00:08:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-08-19 22:28:52 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-20 00:08:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-20 00:08:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-08-20 00:15:26 +0200"
     },
     "done": true
   },
@@ -2785,15 +2780,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-20 00:08:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-20 00:08:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-08-20 00:08:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_minecart": "2025-08-19 22:28:52 +0200"
+      "has_snowball": "2025-08-20 00:15:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-20 00:15:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-20 12:57:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-20 13:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-08-20 14:36:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-20 14:36:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-20 14:36:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-20 14:36:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 15:18:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-20 15:18:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 15:18:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-20 15:18:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-20 18:32:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-20 19:25:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-20 19:24:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-20 19:06:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-20 19:24:07 +0200"
     },
     "done": true
   },
