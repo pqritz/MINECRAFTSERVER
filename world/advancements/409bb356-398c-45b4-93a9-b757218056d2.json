@@ -565,15 +565,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-18 16:59:16 +0200",
+      "minecraft:husk": "2025-08-20 23:32:35 +0200",
+      "minecraft:bogged": "2025-08-20 22:59:52 +0200",
+      "minecraft:ghast": "2025-08-18 20:22:02 +0200",
+      "minecraft:hoglin": "2025-08-18 20:20:34 +0200",
       "minecraft:piglin": "2025-08-18 20:18:00 +0200",
       "minecraft:breeze": "2025-08-18 21:08:50 +0200",
+      "minecraft:silverfish": "2025-08-20 23:20:24 +0200",
+      "minecraft:stray": "2025-08-20 22:39:11 +0200",
       "minecraft:spider": "2025-08-18 16:47:22 +0200",
       "minecraft:zombie": "2025-08-18 16:57:27 +0200",
       "minecraft:creeper": "2025-08-18 16:47:59 +0200",
       "minecraft:drowned": "2025-08-18 18:22:59 +0200",
       "minecraft:zombie_villager": "2025-08-18 22:36:17 +0200",
-      "minecraft:ghast": "2025-08-18 20:22:02 +0200",
-      "minecraft:hoglin": "2025-08-18 20:20:34 +0200"
+      "minecraft:slime": "2025-08-20 22:41:01 +0200"
     },
     "done": false
   },
@@ -3288,6 +3293,126 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-08-20 18:32:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-08-20 22:41:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-20 23:18:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-20 22:41:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-20 22:41:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-20 22:36:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-20 22:32:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-20 23:27:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-20 22:41:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-20 22:41:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-20 23:27:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-20 22:38:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-08-20 22:53:43 +0200"
     },
     "done": true
   },

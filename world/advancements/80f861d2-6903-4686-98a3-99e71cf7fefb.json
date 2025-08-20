@@ -2906,9 +2906,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_pink_petals": "2025-08-20 19:25:09 +0200"
+      "has_hay_block": "2025-08-20 19:06:05 +0200"
     },
     "done": true
   },
@@ -2918,15 +2918,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-08-20 19:06:05 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-08-20 19:24:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-20 19:25:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-20 22:37:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-21 00:59:18 +0200"
     },
     "done": true
   },

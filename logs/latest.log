@@ -1,119 +1,87 @@
-[18:17:43] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[18:17:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:17:48] [ServerMain/INFO]: Loaded 1407 recipes
-[18:17:48] [ServerMain/INFO]: Loaded 1520 advancements
-[18:17:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:17:49] [Server thread/INFO]: Loading properties
-[18:17:49] [Server thread/INFO]: Default game type: SURVIVAL
-[18:17:49] [Server thread/INFO]: Generating keypair
-[18:17:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:17:49] [Server thread/INFO]: Using default channel type
-[18:17:49] [Server thread/INFO]: Preparing level "world"
-[18:17:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:17:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:17:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:17:50] [Server thread/INFO]: Time elapsed: 867 ms
-[18:17:50] [Server thread/INFO]: Done (1.068s)! For help, type "help"
-[18:18:22] [User Authenticator #1/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
-[18:18:22] [Server thread/INFO]: Erempla[/[2003:106:5733:3c64:f92d:a0f3:fe33:393d]:58103] logged in with entity id 6 at (5841.753580819701, 62.110764312744145, -3347.9002106322328)
-[18:18:22] [Server thread/INFO]: Erempla joined the game
-[18:18:26] [User Authenticator #2/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[18:18:27] [Server thread/INFO]: Superkuba07[/[2a02:908:1213:aa20:7656:3cff:fe6f:313f]:60533] logged in with entity id 169 at (505.3669703805523, 70.0, -431.35378603866064)
-[18:18:27] [Server thread/INFO]: Superkuba07 joined the game
-[18:18:38] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[18:18:38] [Server thread/INFO]: Superkuba07 left the game
-[18:18:44] [User Authenticator #3/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[18:18:45] [Server thread/INFO]: Superkuba07[/[2a02:908:1213:aa20:7656:3cff:fe6f:313f]:60552] logged in with entity id 800 at (505.3669703805523, 70.0, -431.35378603866064)
-[18:18:45] [Server thread/INFO]: Superkuba07 joined the game
-[18:18:48] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[18:18:48] [Server thread/INFO]: Superkuba07 left the game
-[18:19:24] [User Authenticator #4/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[18:19:24] [Server thread/INFO]: Superkuba07[/127.0.0.1:60867] logged in with entity id 1334 at (505.3669703805523, 70.0, -431.35378603866064)
-[18:19:24] [Server thread/INFO]: Superkuba07 joined the game
-[18:19:28] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[18:19:28] [Server thread/INFO]: Superkuba07 left the game
-[18:20:31] [User Authenticator #5/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[18:20:31] [Server thread/INFO]: Superkuba07[/127.0.0.1:61000] logged in with entity id 2964 at (505.3669703805523, 70.0, -431.35378603866064)
-[18:20:31] [Server thread/INFO]: Superkuba07 joined the game
-[18:21:29] [Server thread/INFO]: Erempla was impaled by Drowned
-[18:45:19] [User Authenticator #6/INFO]: UUID of player JsusIsTheOne is cc6c1254-c508-4b99-9686-9c80381eadec
-[18:45:19] [Server thread/INFO]: JsusIsTheOne[/[2003:e3:2f0b:fd00:81d9:f2a3:15c8:9fb6]:51250] logged in with entity id 28635 at (474.8202276036944, 66.0, -437.4271820521102)
-[18:45:20] [Server thread/INFO]: JsusIsTheOne joined the game
-[18:48:33] [Server thread/INFO]: JsusIsTheOne lost connection: Disconnected
-[18:48:33] [Server thread/INFO]: JsusIsTheOne left the game
-[18:48:58] [User Authenticator #7/INFO]: UUID of player JsusIsTheOne is cc6c1254-c508-4b99-9686-9c80381eadec
-[18:48:59] [Server thread/INFO]: JsusIsTheOne[/[2003:e3:2f0b:fd00:81d9:f2a3:15c8:9fb6]:51545] logged in with entity id 33308 at (423.5844683431005, 62.11076431274414, -451.53306594130504)
-[18:48:59] [Server thread/INFO]: JsusIsTheOne joined the game
-[18:49:05] [Server thread/INFO]: JsusIsTheOne lost connection: Disconnected
-[18:49:05] [Server thread/INFO]: JsusIsTheOne left the game
-[18:49:41] [User Authenticator #8/INFO]: UUID of player JsusIsTheOne is cc6c1254-c508-4b99-9686-9c80381eadec
-[18:49:42] [Server thread/INFO]: JsusIsTheOne[/[2003:e3:2f0b:fd00:81d9:f2a3:15c8:9fb6]:51642] logged in with entity id 33768 at (423.5844683431005, 62.11076431274414, -451.53306594130504)
-[18:49:42] [Server thread/INFO]: JsusIsTheOne joined the game
-[18:58:47] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[18:58:47] [Server thread/INFO]: Superkuba07 left the game
-[19:00:11] [User Authenticator #9/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[19:00:15] [Server thread/INFO]: Superkuba07[/127.0.0.1:63346] logged in with entity id 48948 at (470.5, 64.5625, -435.5)
-[19:00:15] [Server thread/INFO]: Superkuba07 joined the game
-[19:00:45] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[19:00:45] [Server thread/INFO]: Superkuba07 left the game
-[19:02:06] [Server thread/INFO]: Erempla was shot by Pillager
-[19:02:20] [Server thread/INFO]: Erempla lost connection: Disconnected
-[19:02:20] [Server thread/INFO]: Erempla left the game
-[19:02:57] [User Authenticator #10/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
-[19:02:57] [Server thread/INFO]: Erempla[/[2003:106:5733:3c64:f92d:a0f3:fe33:393d]:60163] logged in with entity id 51508 at (843.3872869621568, 119.0, -1077.9216005778892)
-[19:02:57] [Server thread/INFO]: Erempla joined the game
-[19:12:06] [User Authenticator #11/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
-[19:12:07] [Server thread/INFO]: sunset_online[/[2a0a:a549:eab3:0:a58f:c88a:7931:eacb]:58450] logged in with entity id 58748 at (494.1651677000184, 67.0, -442.796353587026)
-[19:12:07] [Server thread/INFO]: sunset_online joined the game
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! 0.1542663480970532,0.0,10.389101805145458
-[19:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! 0.012551177150271542,0.0,10.381525188532748
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.00499013040121099,0.0,10.780614675708136
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.02167461029387141,0.0,11.17978513802251
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.03669064179950965,0.0,11.539038544588493
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.04927709468631747,0.0,11.902355745542593
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.05889886594377458,0.0,12.269304656846089
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.06515156491832386,0.0,12.639485957160389
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.06774080610216515,0.0,13.012533276096235
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.06646732663125476,0.0,13.388112834646847
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.06120973100246374,0.0,13.76592217162846
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.0519051463896858,0.0,14.145687891065904
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.03854706493143567,0.0,14.527164838108376
-[19:12:12] [Server thread/WARN]: Oak Boat (vehicle of Erempla) moved too quickly! -0.021171966079805316,0.0,14.910133789006181
-[19:24:50] [User Authenticator #12/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[19:24:50] [Server thread/INFO]: Superkuba07[/127.0.0.1:64179] logged in with entity id 75069 at (470.5, 64.5625, -435.5)
-[19:24:50] [Server thread/INFO]: Superkuba07 joined the game
-[19:28:00] [Server thread/INFO]: Villager cuf['Villager'/58868, l='ServerLevel[world]', x=462.30, y=52.05, z=-435.30] died, message: 'Villager drowned'
-[19:36:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=42, y=11, z=-112} jb{x=43, y=10, z=-112}
-[19:36:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=42, y=11, z=-112} jb{x=43, y=10, z=-112}
-[19:36:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=42, y=11, z=-112} jb{x=43, y=10, z=-112}
-[19:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-95, y=14, z=-183} jb{x=-97, y=9, z=-182}
-[19:40:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-95, y=14, z=-183} jb{x=-97, y=9, z=-182}
-[19:42:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=11, z=-48} jb{x=35, y=11, z=-48}
-[19:42:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=11, z=-48} jb{x=35, y=11, z=-48}
-[19:42:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=11, z=-48} jb{x=35, y=11, z=-48}
-[19:42:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=11, z=-48} jb{x=35, y=11, z=-48}
-[19:49:28] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[19:49:28] [Server thread/INFO]: Superkuba07 left the game
-[19:49:41] [User Authenticator #13/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[19:49:41] [Server thread/INFO]: Superkuba07[/127.0.0.1:64828] logged in with entity id 110660 at (527.6637881203727, 82.0, -433.2066786245954)
-[19:49:41] [Server thread/INFO]: Superkuba07 joined the game
-[19:58:04] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[19:58:04] [Server thread/INFO]: Superkuba07 left the game
-[19:58:10] [Server thread/INFO]: sunset_online lost connection: Disconnected
-[19:58:10] [Server thread/INFO]: sunset_online left the game
-[19:58:13] [Server thread/INFO]: Erempla lost connection: Disconnected
-[19:58:13] [Server thread/INFO]: Erempla left the game
-[19:58:15] [Server thread/INFO]: [JsusIsTheOne: Stopping the server]
-[19:58:15] [Server thread/INFO]: Stopping server
-[19:58:15] [Server thread/INFO]: Saving players
-[19:58:15] [Server thread/INFO]: JsusIsTheOne lost connection: Server closed
-[19:58:15] [Server thread/INFO]: JsusIsTheOne left the game
-[19:58:15] [Server thread/INFO]: Saving worlds
-[19:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:28] [Server thread/INFO]: SchachMats was doomed to fall by CSkiller07
+[00:01:30] [Server thread/INFO]: <sunset_online> baumhaus
+[00:01:32] [Server thread/INFO]: <JsusIsTheOne> baumhaus
+[00:04:37] [Server thread/INFO]: sunset_online lost connection: Disconnected
+[00:04:37] [Server thread/INFO]: sunset_online left the game
+[00:10:35] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[00:10:35] [Server thread/INFO]: CSkiller07 left the game
+[00:37:14] [User Authenticator #16/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
+[00:37:15] [Server thread/INFO]: Fun2023[/178.200.129.23:49933] logged in with entity id 278918 at (684.7635394713036, 114.0, -789.3308560165688)
+[00:37:15] [Server thread/INFO]: Fun2023 joined the game
+[00:43:19] [Server thread/INFO]: SchachMats lost connection: Disconnected
+[00:43:19] [Server thread/INFO]: SchachMats left the game
+[00:44:22] [Netty Server IO #10/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at zl.a(SourceFile:50) ~[server-1.21.8.jar:?]
+	at zl.encode(SourceFile:14) ~[server-1.21.8.jar:?]
+	at wr.a(SourceFile:26) ~[server-1.21.8.jar:?]
+	at wr.encode(SourceFile:12) ~[server-1.21.8.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd$2.write(SourceFile:525) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wd.c(SourceFile:351) ~[server-1.21.8.jar:?]
+	at wd.b(SourceFile:343) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:325) ~[server-1.21.8.jar:?]
+	at wd.a(SourceFile:319) ~[server-1.21.8.jar:?]
+	at wd.exceptionCaught(SourceFile:170) ~[server-1.21.8.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:51:28] [User Authenticator #17/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
+[00:51:29] [Server thread/INFO]: Erempla[/91.10.89.122:50272] logged in with entity id 291185 at (1536.300000011921, 92.0, -1981.4873455315344)
+[00:51:29] [Server thread/INFO]: Erempla joined the game
+[00:52:11] [Server thread/INFO]: Erempla froze to death
+[00:52:15] [Server thread/INFO]: <Fun2023> f
+[00:52:15] [Server thread/INFO]: <Erempla> f
+[00:52:20] [Server thread/INFO]: <JsusIsTheOne> baumhaus
+[01:00:01] [Server thread/WARN]: JsusIsTheOne moved wrongly!
+[01:04:15] [Server thread/INFO]: <Erempla> Fun2023 so in 15 - 20 min geht server aus dass du nix wichtiges mehr machst
+[01:04:26] [Server thread/INFO]: <Fun2023> okay
+[01:04:40] [Server thread/INFO]: Fun2023 lost connection: Disconnected
+[01:04:40] [Server thread/INFO]: Fun2023 left the game
+[01:04:41] [User Authenticator #18/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
+[01:04:42] [Server thread/INFO]: Fun2023[/178.200.129.23:62929] logged in with entity id 301438 at (668.2830609447393, 116.0, -777.5427638252764)
+[01:04:42] [Server thread/INFO]: Fun2023 joined the game
+[01:10:24] [Server thread/INFO]: Fun2023 lost connection: Disconnected
+[01:10:24] [Server thread/INFO]: Fun2023 left the game
+[01:10:27] [Server thread/INFO]: Erempla lost connection: Disconnected
+[01:10:27] [Server thread/INFO]: Erempla left the game
+[01:13:04] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[01:13:04] [Server thread/INFO]: Superkuba07 left the game
+[01:15:49] [Server thread/INFO]: [JsusIsTheOne: Stopping the server]
+[01:15:49] [Server thread/INFO]: Stopping server
+[01:15:49] [Server thread/INFO]: Saving players
+[01:15:49] [Server thread/INFO]: JsusIsTheOne lost connection: Server closed
+[01:15:49] [Server thread/INFO]: JsusIsTheOne left the game
+[01:15:49] [Server thread/INFO]: Saving worlds
+[01:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
