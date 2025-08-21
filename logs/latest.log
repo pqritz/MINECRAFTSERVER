@@ -1,60 +1,41 @@
-[23:20:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:20:40] [ServerMain/INFO]: Loaded 1407 recipes
-[23:20:40] [ServerMain/INFO]: Loaded 1520 advancements
-[23:20:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:20:40] [Server thread/INFO]: Loading properties
-[23:20:40] [Server thread/INFO]: Default game type: SURVIVAL
-[23:20:40] [Server thread/INFO]: Generating keypair
-[23:20:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:20:40] [Server thread/INFO]: Using default channel type
-[23:20:40] [Server thread/INFO]: Preparing level "world"
-[23:20:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:20:41] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[23:20:41] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[23:20:42] [Server thread/INFO]: Time elapsed: 879 ms
-[23:20:42] [Server thread/INFO]: Done (1.340s)! For help, type "help"
-[23:20:49] [User Authenticator #1/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
-[23:20:49] [Server thread/INFO]: GamyYT[/207.89.106.27:33934] logged in with entity id 6 at (605.7172194032264, 103.64564213482814, -589.3597076122948)
-[23:20:49] [Server thread/INFO]: GamyYT joined the game
-[23:20:55] [User Authenticator #2/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
-[23:20:55] [Server thread/INFO]: Fun2023[/178.200.129.23:49313] logged in with entity id 597 at (677.3969043649707, 115.0, -776.393540819552)
-[23:20:55] [Server thread/INFO]: Fun2023 joined the game
-[23:43:17] [User Authenticator #3/INFO]: UUID of player DestinySmasherGu is d284ba2f-63d5-4664-83b5-fab8be7bee84
-[23:43:18] [Server thread/INFO]: DestinySmasherGu[/73.76.164.30:35411] logged in with entity id 15970 at (78.5, 69.0, 86.5)
-[23:43:18] [Server thread/INFO]: DestinySmasherGu joined the game
-[23:43:25] [Server thread/INFO]: <DestinySmasherGu> hey boys!
-[23:43:35] [Server thread/INFO]: <Fun2023> tag auch
-[23:43:39] [Server thread/INFO]: <DestinySmasherGu> MLPI*
-[23:43:50] [Server thread/INFO]: <Fun2023> ?
-[23:43:53] [Server thread/INFO]: <DestinySmasherGu> Appeal your rennovation here: https://discord.com/invite/mlpi
-[23:43:53] [Server thread/INFO]: <DestinySmasherGu> ?
-[23:44:03] [Server thread/INFO]: <DestinySmasherGu> https://www.instagram.com/aprilfeng_/
-[23:44:06] [Server thread/WARN]: DestinySmasherGu moved wrongly!
-[23:44:14] [Server thread/INFO]: <DestinySmasherGu> sorry
-[23:44:16] [Server thread/INFO]: <DestinySmasherGu> i had my mod on mb
-[23:44:21] [Server thread/INFO]: <DestinySmasherGu> amerikan??
-[23:44:26] [Server thread/INFO]: <DestinySmasherGu> o deustch
-[23:44:33] [Server thread/INFO]: DestinySmasherGu has made the advancement [Suit Up]
-[23:44:34] [Server thread/INFO]: DestinySmasherGu has made the advancement [Stone Age]
-[23:44:36] [Server thread/INFO]: DestinySmasherGu has made the advancement [Diamonds!]
-[23:44:56] [Server thread/INFO]: <DestinySmasherGu> ppp
-[23:44:58] [Server thread/INFO]: <DestinySmasherGu> watch out!
-[23:45:16] [Server thread/INFO]: <GamyYT> what do you do on this server dude?
-[23:45:21] [Server thread/INFO]: <DestinySmasherGu> well
-[23:45:23] [Server thread/INFO]: <DestinySmasherGu> they want to grief u
-[23:45:25] [Server thread/INFO]: <DestinySmasherGu> i scouting
-[23:45:36] [Server thread/INFO]: Stopping the server
-[23:45:36] [Server thread/INFO]: Stopping server
-[23:45:36] [Server thread/INFO]: Saving players
-[23:45:36] [Server thread/INFO]: GamyYT lost connection: Server closed
-[23:45:36] [Server thread/INFO]: GamyYT left the game
-[23:45:36] [Server thread/INFO]: DestinySmasherGu lost connection: Server closed
-[23:45:36] [Server thread/INFO]: DestinySmasherGu left the game
-[23:45:36] [Server thread/INFO]: Saving worlds
-[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:51:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:51:50] [ServerMain/INFO]: Loaded 1407 recipes
+[23:51:50] [ServerMain/INFO]: Loaded 1520 advancements
+[23:51:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:51:51] [Server thread/INFO]: Loading properties
+[23:51:51] [Server thread/INFO]: Default game type: SURVIVAL
+[23:51:51] [Server thread/INFO]: Generating keypair
+[23:51:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:51:51] [Server thread/INFO]: Using default channel type
+[23:51:51] [Server thread/INFO]: Preparing level "world"
+[23:51:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:51:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:51:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:51:53] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[23:51:53] [Server thread/INFO]: Time elapsed: 1171 ms
+[23:51:53] [Server thread/INFO]: Done (1.672s)! For help, type "help"
+[23:52:11] [Server thread/INFO]: Added Fun2023 to the whitelist
+[23:52:36] [Server thread/INFO]: Added GamyYT to the whitelist
+[23:52:41] [Server thread/INFO]: Added sunset_online to the whitelist
+[23:52:45] [Server thread/INFO]: Added Erempla to the whitelist
+[23:52:50] [Server thread/INFO]: Added Superkuba07 to the whitelist
+[23:52:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:52:58] [Server thread/INFO]: Made Superkuba07 a server operator
+[23:53:04] [Server thread/INFO]: Added CSkiller07 to the whitelist
+[23:53:08] [Server thread/INFO]: Added SchachMats to the whitelist
+[23:53:12] [Server thread/INFO]: Added JsusIsTheOne to the whitelist
+[23:53:16] [Server thread/INFO]: Added Ryze447 to the whitelist
+[23:53:20] [Server thread/INFO]: Added Salzkartoffel21 to the whitelist
+[23:53:23] [Server thread/INFO]: Added BZvone to the whitelist
+[23:53:27] [Server thread/INFO]: Added Paulivomhaus to the whitelist
+[23:53:29] [Server thread/INFO]: Stopping the server
+[23:53:29] [Server thread/INFO]: Stopping server
+[23:53:29] [Server thread/INFO]: Saving players
+[23:53:29] [Server thread/INFO]: Saving worlds
+[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
