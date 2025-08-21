@@ -1,170 +1,60 @@
-[17:26:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:26:11] [ServerMain/INFO]: Loaded 1407 recipes
-[17:26:11] [ServerMain/INFO]: Loaded 1520 advancements
-[17:26:11] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:26:11] [Server thread/INFO]: Loading properties
-[17:26:11] [Server thread/INFO]: Default game type: SURVIVAL
-[17:26:11] [Server thread/INFO]: Generating keypair
-[17:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:26:12] [Server thread/INFO]: Using default channel type
-[17:26:12] [Server thread/INFO]: Preparing level "world"
-[17:26:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:26:14] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:26:14] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:26:14] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[17:26:14] [Server thread/INFO]: Time elapsed: 1408 ms
-[17:26:14] [Server thread/INFO]: Done (2.430s)! For help, type "help"
-[17:26:29] [User Authenticator #1/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
-[17:26:30] [Server thread/INFO]: CSkiller07[/87.78.234.188:55037] logged in with entity id 6 at (471.69644426071574, 64.5625, -435.94215167770767)
-[17:26:30] [Server thread/INFO]: CSkiller07 joined the game
-[17:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[17:27:40] [Server thread/INFO]: CSkiller07 fell from a high place
-[17:29:49] [User Authenticator #2/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
-[17:29:49] [Server thread/INFO]: GamyYT[/207.89.106.27:33841] logged in with entity id 4181 at (689.0166755945422, -1.0, -812.3643970592345)
-[17:29:49] [Server thread/INFO]: GamyYT joined the game
-[17:34:37] [Server thread/INFO]: CSkiller07 fell from a high place
-[17:36:38] [Server thread/WARN]: Dark Oak Boat with Chest (vehicle of CSkiller07) moved wrongly! 0.2573217895974267
-[17:42:55] [User Authenticator #3/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
-[17:42:56] [Server thread/INFO]: sunset_online[/89.1.208.183:38189] logged in with entity id 16520 at (474.97234091789363, 64.0, -434.9091294307111)
-[17:42:56] [Server thread/INFO]: sunset_online joined the game
-[17:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:49:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[17:52:14] [Server thread/INFO]: CSkiller07 has made the advancement [A Terrible Fortress]
-[17:54:11] [Server thread/INFO]: GamyYT lost connection: Disconnected
-[17:54:11] [Server thread/INFO]: GamyYT left the game
-[17:58:23] [User Authenticator #4/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
-[17:58:23] [Server thread/INFO]: GamyYT[/207.89.106.27:33826] logged in with entity id 33888 at (808.9198710829623, 119.9375, -1054.638755800104)
-[17:58:23] [Server thread/INFO]: GamyYT joined the game
-[18:02:10] [Server thread/INFO]: GamyYT lost connection: Disconnected
-[18:02:10] [Server thread/INFO]: GamyYT left the game
-[18:03:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=463, y=61, z=-446} jb{x=463, y=60, z=-447}
-[18:08:14] [Server thread/INFO]: CSkiller07 has made the advancement [A Seedy Place]
-[18:12:35] [Server thread/INFO]: CSkiller07 has made the advancement [Local Brewery]
-[18:20:01] [Server thread/INFO]: sunset_online has completed the challenge [Return to Sender]
-[18:24:01] [Server thread/INFO]: sunset_online lost connection: Disconnected
-[18:24:01] [Server thread/INFO]: sunset_online left the game
-[18:55:02] [User Authenticator #5/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
-[18:55:02] [Server thread/INFO]: GamyYT[/207.89.106.27:33869] logged in with entity id 67155 at (834.9345401405697, 118.9375, -1024.4142340917977)
-[18:55:02] [Server thread/INFO]: GamyYT joined the game
-[19:09:13] [User Authenticator #6/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
-[19:09:13] [Server thread/INFO]: Superkuba07[/5.146.196.186:43362] logged in with entity id 77715 at (526.6803839399125, 91.0, -446.30000001192093)
-[19:09:13] [Server thread/INFO]: Superkuba07 joined the game
-[19:14:25] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
-[19:14:25] [Server thread/INFO]: CSkiller07 left the game
-[19:28:16] [User Authenticator #7/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
-[19:28:16] [Server thread/INFO]: Fun2023[/178.200.129.23:64838] logged in with entity id 89093 at (680.8622165240726, 122.0, -762.1246657419264)
-[19:28:16] [Server thread/INFO]: Fun2023 joined the game
-[19:44:14] [Server thread/INFO]: Fun2023 lost connection: Disconnected
-[19:44:14] [Server thread/INFO]: Fun2023 left the game
-[19:44:24] [User Authenticator #8/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
-[19:44:25] [Server thread/INFO]: Erempla[/91.10.89.122:58520] logged in with entity id 97945 at (877.8776707828052, 117.0, -1059.7771324399287)
-[19:44:25] [Server thread/INFO]: Erempla joined the game
-[19:46:15] [User Authenticator #9/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
-[19:46:16] [Server thread/INFO]: Fun2023[/178.200.129.23:52599] logged in with entity id 100065 at (613.0283724152408, 110.0, -815.9025559899287)
-[19:46:16] [Server thread/INFO]: Fun2023 joined the game
-[19:49:32] [Server thread/INFO]: Villager cuf['Villager'/98008, l='ServerLevel[world]', x=842.25, y=117.00, z=-1072.30] died, message: 'Villager was squished too much'
-[19:49:44] [Server thread/INFO]: Villager cuf['Villager'/97975, l='ServerLevel[world]', x=842.13, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[19:54:35] [Server thread/INFO]: Fun2023 was shot by Skeleton
-[19:54:36] [User Authenticator #10/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
-[19:54:37] [Server thread/INFO]: sunset_online[/89.1.208.183:38220] logged in with entity id 105305 at (474.1091856556499, 65.0, -435.9729867091753)
-[19:54:37] [Server thread/INFO]: sunset_online joined the game
-[19:55:01] [Server thread/INFO]: GamyYT lost connection: Disconnected
-[19:55:01] [Server thread/INFO]: GamyYT left the game
-[19:55:54] [Server thread/INFO]: sunset_online has made the advancement [Local Brewery]
-[19:57:38] [Server thread/INFO]: Fun2023 has made the advancement [Hot Stuff]
-[20:00:12] [Server thread/INFO]: Fun2023 was impaled on a stalagmite
-[20:00:17] [Server thread/INFO]: <sunset_online> L
-[20:02:31] [Server thread/INFO]: Fun2023 was shot by Skeleton
-[20:02:36] [Server thread/INFO]: <sunset_online> L
-[20:13:32] [Server thread/INFO]: <sunset_online> peni
-[20:13:34] [Server thread/INFO]: <sunset_online> s
-[20:22:48] [Server thread/INFO]: Fun2023 has made the advancement [Sneak 100]
-[20:25:50] [Server thread/INFO]: sunset_online lost connection: Disconnected
-[20:25:50] [Server thread/INFO]: sunset_online left the game
-[20:26:07] [User Authenticator #11/INFO]: UUID of player sunset_online is ea8d3b47-daf4-4cf6-8d9a-5a8ba56811aa
-[20:26:08] [Server thread/INFO]: sunset_online[/89.1.208.183:38263] logged in with entity id 138589 at (476.5189197880572, 65.0, -436.15589611194474)
-[20:26:08] [Server thread/INFO]: sunset_online joined the game
-[20:26:56] [Server thread/WARN]: sunset_online moved wrongly!
-[20:28:23] [Server thread/INFO]: sunset_online lost connection: Disconnected
-[20:28:23] [Server thread/INFO]: sunset_online left the game
-[20:28:33] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
-[20:28:33] [Server thread/INFO]: Superkuba07 left the game
-[20:36:30] [Server thread/INFO]: Erempla was shot by Skeleton
-[20:36:41] [Server thread/INFO]: [Not Secure] [Server] L
-[20:37:05] [Server thread/INFO]: Villager cuf['Villager'/145478, l='ServerLevel[world]', x=842.17, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:38:22] [Server thread/INFO]: Erempla lost connection: Disconnected
-[20:38:22] [Server thread/INFO]: Erempla left the game
-[20:48:27] [Server thread/INFO]: Fun2023 has made the advancement [Ice Bucket Challenge]
-[20:54:00] [Server thread/INFO]: Villager cuf['Villager'/153128, l='ServerLevel[world]', x=842.17, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:54:19] [Server thread/INFO]: Villager cuf['Villager'/153112, l='ServerLevel[world]', x=842.23, y=117.00, z=-1072.70] died, message: 'Villager was squished too much'
-[20:54:46] [Server thread/INFO]: Villager cuf['Villager'/153139, l='ServerLevel[world]', x=842.21, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:54:48] [Server thread/INFO]: Villager cuf['Villager'/153113, l='ServerLevel[world]', x=842.18, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:55:02] [Server thread/INFO]: Villager cuf['Villager'/153115, l='ServerLevel[world]', x=842.17, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:55:09] [Server thread/INFO]: Villager cuf['Villager'/153156, l='ServerLevel[world]', x=842.10, y=117.05, z=-1072.30] died, message: 'Villager was squished too much'
-[20:58:01] [Server thread/INFO]: Villager cuf['Farmer'/153130, l='ServerLevel[world]', x=826.75, y=120.00, z=-1055.71] died, message: 'Farmer was slain by Fun2023'
-[21:09:07] [Server thread/INFO]: Villager cuf['Villager'/153122, l='ServerLevel[world]', x=841.22, y=64.19, z=-887.52] died, message: 'Villager was slain by Fun2023'
-[21:36:34] [Server thread/INFO]: Fun2023 has made the advancement [We Need to Go Deeper]
-[22:00:20] [Server thread/INFO]: Fun2023 lost connection: Disconnected
-[22:00:20] [Server thread/INFO]: Fun2023 left the game
-[22:01:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:42:19] [Netty Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at zl.a(SourceFile:50) ~[server-1.21.8.jar:?]
-	at zl.encode(SourceFile:14) ~[server-1.21.8.jar:?]
-	at wr.a(SourceFile:26) ~[server-1.21.8.jar:?]
-	at wr.encode(SourceFile:12) ~[server-1.21.8.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at wd$2.write(SourceFile:525) ~[server-1.21.8.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at wd.c(SourceFile:351) ~[server-1.21.8.jar:?]
-	at wd.b(SourceFile:343) ~[server-1.21.8.jar:?]
-	at wd.a(SourceFile:325) ~[server-1.21.8.jar:?]
-	at wd.a(SourceFile:319) ~[server-1.21.8.jar:?]
-	at wd.exceptionCaught(SourceFile:170) ~[server-1.21.8.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[22:53:52] [User Authenticator #12/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
-[22:53:53] [Server thread/INFO]: Fun2023[/178.200.129.23:60545] logged in with entity id 174566 at (829.0646200397523, 62.11076431750201, -831.6021537885449)
-[22:53:53] [Server thread/INFO]: Fun2023 joined the game
-[22:59:15] [Server thread/INFO]: Fun2023 has made the advancement [Voluntary Exile]
-[22:59:31] [Server thread/INFO]: Fun2023 has completed the challenge [Hero of the Village]
-[23:12:20] [User Authenticator #13/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
-[23:12:21] [Server thread/INFO]: GamyYT[/207.89.106.27:33989] logged in with entity id 182458 at (678.3507197310884, 115.0, -782.0372467646331)
-[23:12:21] [Server thread/INFO]: GamyYT joined the game
-[23:19:25] [Server thread/INFO]: Stopping server
-[23:19:25] [Server thread/INFO]: Saving players
-[23:19:25] [Server thread/INFO]: GamyYT lost connection: Server closed
-[23:19:25] [Server thread/INFO]: GamyYT left the game
-[23:19:25] [Server thread/INFO]: Saving worlds
-[23:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:20:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:20:40] [ServerMain/INFO]: Loaded 1407 recipes
+[23:20:40] [ServerMain/INFO]: Loaded 1520 advancements
+[23:20:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:20:40] [Server thread/INFO]: Loading properties
+[23:20:40] [Server thread/INFO]: Default game type: SURVIVAL
+[23:20:40] [Server thread/INFO]: Generating keypair
+[23:20:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:20:40] [Server thread/INFO]: Using default channel type
+[23:20:40] [Server thread/INFO]: Preparing level "world"
+[23:20:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:20:41] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[23:20:41] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[23:20:42] [Server thread/INFO]: Time elapsed: 879 ms
+[23:20:42] [Server thread/INFO]: Done (1.340s)! For help, type "help"
+[23:20:49] [User Authenticator #1/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[23:20:49] [Server thread/INFO]: GamyYT[/207.89.106.27:33934] logged in with entity id 6 at (605.7172194032264, 103.64564213482814, -589.3597076122948)
+[23:20:49] [Server thread/INFO]: GamyYT joined the game
+[23:20:55] [User Authenticator #2/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
+[23:20:55] [Server thread/INFO]: Fun2023[/178.200.129.23:49313] logged in with entity id 597 at (677.3969043649707, 115.0, -776.393540819552)
+[23:20:55] [Server thread/INFO]: Fun2023 joined the game
+[23:43:17] [User Authenticator #3/INFO]: UUID of player DestinySmasherGu is d284ba2f-63d5-4664-83b5-fab8be7bee84
+[23:43:18] [Server thread/INFO]: DestinySmasherGu[/73.76.164.30:35411] logged in with entity id 15970 at (78.5, 69.0, 86.5)
+[23:43:18] [Server thread/INFO]: DestinySmasherGu joined the game
+[23:43:25] [Server thread/INFO]: <DestinySmasherGu> hey boys!
+[23:43:35] [Server thread/INFO]: <Fun2023> tag auch
+[23:43:39] [Server thread/INFO]: <DestinySmasherGu> MLPI*
+[23:43:50] [Server thread/INFO]: <Fun2023> ?
+[23:43:53] [Server thread/INFO]: <DestinySmasherGu> Appeal your rennovation here: https://discord.com/invite/mlpi
+[23:43:53] [Server thread/INFO]: <DestinySmasherGu> ?
+[23:44:03] [Server thread/INFO]: <DestinySmasherGu> https://www.instagram.com/aprilfeng_/
+[23:44:06] [Server thread/WARN]: DestinySmasherGu moved wrongly!
+[23:44:14] [Server thread/INFO]: <DestinySmasherGu> sorry
+[23:44:16] [Server thread/INFO]: <DestinySmasherGu> i had my mod on mb
+[23:44:21] [Server thread/INFO]: <DestinySmasherGu> amerikan??
+[23:44:26] [Server thread/INFO]: <DestinySmasherGu> o deustch
+[23:44:33] [Server thread/INFO]: DestinySmasherGu has made the advancement [Suit Up]
+[23:44:34] [Server thread/INFO]: DestinySmasherGu has made the advancement [Stone Age]
+[23:44:36] [Server thread/INFO]: DestinySmasherGu has made the advancement [Diamonds!]
+[23:44:56] [Server thread/INFO]: <DestinySmasherGu> ppp
+[23:44:58] [Server thread/INFO]: <DestinySmasherGu> watch out!
+[23:45:16] [Server thread/INFO]: <GamyYT> what do you do on this server dude?
+[23:45:21] [Server thread/INFO]: <DestinySmasherGu> well
+[23:45:23] [Server thread/INFO]: <DestinySmasherGu> they want to grief u
+[23:45:25] [Server thread/INFO]: <DestinySmasherGu> i scouting
+[23:45:36] [Server thread/INFO]: Stopping the server
+[23:45:36] [Server thread/INFO]: Stopping server
+[23:45:36] [Server thread/INFO]: Saving players
+[23:45:36] [Server thread/INFO]: GamyYT lost connection: Server closed
+[23:45:36] [Server thread/INFO]: GamyYT left the game
+[23:45:36] [Server thread/INFO]: DestinySmasherGu lost connection: Server closed
+[23:45:36] [Server thread/INFO]: DestinySmasherGu left the game
+[23:45:36] [Server thread/INFO]: Saving worlds
+[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
