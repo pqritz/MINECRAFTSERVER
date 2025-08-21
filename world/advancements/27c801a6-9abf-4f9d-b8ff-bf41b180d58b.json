@@ -13,16 +13,23 @@
       "minecraft:dark_forest": "2025-08-18 20:50:25 +0200",
       "minecraft:forest": "2025-08-18 20:57:47 +0200",
       "minecraft:taiga": "2025-08-18 20:57:06 +0200",
+      "minecraft:sparse_jungle": "2025-08-21 15:38:48 +0200",
       "minecraft:river": "2025-08-18 20:49:07 +0200",
+      "minecraft:lukewarm_ocean": "2025-08-21 15:40:28 +0200",
       "minecraft:stony_shore": "2025-08-18 20:40:05 +0200",
       "minecraft:lush_caves": "2025-08-19 00:11:06 +0200",
       "minecraft:snowy_taiga": "2025-08-18 21:05:28 +0200",
+      "minecraft:old_growth_birch_forest": "2025-08-21 15:30:08 +0200",
       "minecraft:frozen_river": "2025-08-18 21:05:57 +0200",
       "minecraft:ocean": "2025-08-18 20:49:19 +0200",
+      "minecraft:jungle": "2025-08-21 15:35:28 +0200",
       "minecraft:grove": "2025-08-18 21:01:00 +0200",
       "minecraft:meadow": "2025-08-18 21:08:37 +0200",
       "minecraft:birch_forest": "2025-08-18 20:39:42 +0200",
-      "minecraft:plains": "2025-08-18 21:07:38 +0200"
+      "minecraft:savanna": "2025-08-21 15:33:36 +0200",
+      "minecraft:bamboo_jungle": "2025-08-21 15:49:04 +0200",
+      "minecraft:plains": "2025-08-18 21:07:38 +0200",
+      "minecraft:deep_lukewarm_ocean": "2025-08-21 15:58:06 +0200"
     },
     "done": false
   },
@@ -761,12 +768,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-18 21:10:48 +0200",
+      "apple": "2025-08-21 14:57:47 +0200",
       "cooked_mutton": "2025-08-18 21:17:54 +0200",
       "glow_berries": "2025-08-19 23:09:30 +0200",
       "sweet_berries": "2025-08-18 20:59:36 +0200",
       "cooked_beef": "2025-08-18 21:15:40 +0200",
       "beef": "2025-08-18 20:53:42 +0200",
-      "porkchop": "2025-08-18 21:07:55 +0200"
+      "baked_potato": "2025-08-21 15:22:00 +0200",
+      "porkchop": "2025-08-18 21:07:55 +0200",
+      "golden_carrot": "2025-08-21 15:26:38 +0200"
     },
     "done": false
   },
@@ -2060,15 +2070,165 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-08-20 21:08:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2025-08-20 23:36:32 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_logs": "2025-08-20 21:08:15 +0200"
+      "has_amethyst_shard": "2025-08-21 15:08:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 15:08:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 15:08:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-21 15:08:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-21 15:20:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-21 15:20:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-21 15:20:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-08-21 15:45:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-21 15:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-21 15:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-21 15:56:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-21 16:28:29 +0200"
     },
     "done": true
   },
