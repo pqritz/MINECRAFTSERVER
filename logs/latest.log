@@ -1,41 +1,248 @@
-[23:51:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:51:50] [ServerMain/INFO]: Loaded 1407 recipes
-[23:51:50] [ServerMain/INFO]: Loaded 1520 advancements
-[23:51:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:51:51] [Server thread/INFO]: Loading properties
-[23:51:51] [Server thread/INFO]: Default game type: SURVIVAL
-[23:51:51] [Server thread/INFO]: Generating keypair
-[23:51:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:51:51] [Server thread/INFO]: Using default channel type
-[23:51:51] [Server thread/INFO]: Preparing level "world"
-[23:51:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:51:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[23:51:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[23:51:53] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[23:51:53] [Server thread/INFO]: Time elapsed: 1171 ms
-[23:51:53] [Server thread/INFO]: Done (1.672s)! For help, type "help"
-[23:52:11] [Server thread/INFO]: Added Fun2023 to the whitelist
-[23:52:36] [Server thread/INFO]: Added GamyYT to the whitelist
-[23:52:41] [Server thread/INFO]: Added sunset_online to the whitelist
-[23:52:45] [Server thread/INFO]: Added Erempla to the whitelist
-[23:52:50] [Server thread/INFO]: Added Superkuba07 to the whitelist
-[23:52:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:52:58] [Server thread/INFO]: Made Superkuba07 a server operator
-[23:53:04] [Server thread/INFO]: Added CSkiller07 to the whitelist
-[23:53:08] [Server thread/INFO]: Added SchachMats to the whitelist
-[23:53:12] [Server thread/INFO]: Added JsusIsTheOne to the whitelist
-[23:53:16] [Server thread/INFO]: Added Ryze447 to the whitelist
-[23:53:20] [Server thread/INFO]: Added Salzkartoffel21 to the whitelist
-[23:53:23] [Server thread/INFO]: Added BZvone to the whitelist
-[23:53:27] [Server thread/INFO]: Added Paulivomhaus to the whitelist
-[23:53:29] [Server thread/INFO]: Stopping the server
-[23:53:29] [Server thread/INFO]: Stopping server
-[23:53:29] [Server thread/INFO]: Saving players
-[23:53:29] [Server thread/INFO]: Saving worlds
-[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:53:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:22:24] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[13:22:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:22:34] [ServerMain/INFO]: Loaded 1407 recipes
+[13:22:34] [ServerMain/INFO]: Loaded 1520 advancements
+[13:22:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:22:34] [Server thread/INFO]: Loading properties
+[13:22:34] [Server thread/INFO]: Default game type: SURVIVAL
+[13:22:34] [Server thread/INFO]: Generating keypair
+[13:22:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:22:34] [Server thread/INFO]: Using default channel type
+[13:22:34] [Server thread/INFO]: Preparing level "world"
+[13:22:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:22:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:22:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:22:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:22:37] [Server thread/INFO]: Time elapsed: 1597 ms
+[13:22:37] [Server thread/INFO]: Done (2.115s)! For help, type "help"
+[13:23:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:27:01] [User Authenticator #1/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[13:27:02] [Server thread/INFO]: GamyYT[/[2a01:5241:1404:1100:bd6a:6af2:b5e:65e9]:56068] logged in with entity id 6 at (-1418.699999988079, 115.0, -991.377152505529)
+[13:27:02] [Server thread/INFO]: GamyYT joined the game
+[14:01:17] [User Authenticator #2/INFO]: UUID of player Fun2023 is a256bb1b-9d67-48ac-8f38-35fff263f814
+[14:01:19] [Server thread/INFO]: Fun2023[/127.30.170.29:53730] logged in with entity id 16023 at (720.5973837488751, 115.0, -801.6067407897659)
+[14:01:19] [Server thread/INFO]: Fun2023 joined the game
+[14:02:33] [Server thread/WARN]: Fun2023 moved too quickly! 0.1266053435736012,-9.866475867527683,-2.495420501666672
+[14:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=401, y=-4, z=-765} jb{x=402, y=-3, z=-765}
+[14:18:48] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[14:18:48] [Server thread/INFO]: GamyYT left the game
+[14:26:25] [User Authenticator #3/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[14:26:26] [Server thread/INFO]: GamyYT[/[2a01:5241:1404:1100:bd6a:6af2:b5e:65e9]:56357] logged in with entity id 31098 at (734.6999999880791, 86.0, -762.6999999880791)
+[14:26:26] [Server thread/INFO]: GamyYT joined the game
+[14:28:01] [Server thread/INFO]: <GamyYT> Erde an Fynn
+[14:28:04] [Server thread/INFO]: <GamyYT> du noch da?
+[14:46:13] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[14:46:13] [Server thread/INFO]: GamyYT left the game
+[14:47:22] [User Authenticator #4/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[14:47:23] [Server thread/INFO]: GamyYT[/[2a01:5241:1404:1100:bd6a:6af2:b5e:65e9]:57025] logged in with entity id 41138 at (686.1780037461833, 114.0, -789.8817921176377)
+[14:47:23] [Server thread/INFO]: GamyYT joined the game
+[15:07:20] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[15:07:20] [Server thread/INFO]: GamyYT left the game
+[15:07:28] [User Authenticator #5/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[15:07:29] [Server thread/INFO]: GamyYT[/[2a01:5241:1404:1100:bd6a:6af2:b5e:65e9]:57138] logged in with entity id 48838 at (765.1054534878456, 120.0, -1256.5731660027438)
+[15:07:29] [Server thread/INFO]: GamyYT joined the game
+[15:08:10] [User Authenticator #6/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[15:08:11] [Server thread/INFO]: Superkuba07[/127.0.0.1:56417] logged in with entity id 49693 at (483.1465850442215, 66.0, -441.90982326131495)
+[15:08:11] [Server thread/INFO]: Superkuba07 joined the game
+[15:10:17] [Server thread/WARN]: Fun2023 moved wrongly!
+[15:13:59] [User Authenticator #7/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[15:14:00] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:55301] logged in with entity id 55912 at (376.32610106107603, 64.0, -111.40144371634449)
+[15:14:00] [Server thread/INFO]: CSkiller07 joined the game
+[15:27:45] [Server thread/INFO]: <Superkuba07> xaero-waypoint:Waypoint:X:228:63:-479:3:false:0:Internal-overworld
+[15:27:52] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[15:27:52] [Server thread/INFO]: Superkuba07 left the game
+[15:31:08] [Server thread/INFO]: CSkiller07 has made the advancement [Take Aim]
+[15:33:33] [Server thread/INFO]: CSkiller07 has reached the goal [Revaulting]
+[15:34:30] [Server thread/INFO]: CSkiller07 has made the advancement [Under Lock and Key]
+[15:36:01] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[15:36:01] [Server thread/INFO]: GamyYT left the game
+[15:36:23] [Server thread/INFO]: Fun2023 lost connection: Disconnected
+[15:36:23] [Server thread/INFO]: Fun2023 left the game
+[15:39:49] [User Authenticator #8/INFO]: UUID of player GamyYT is c484ccbf-79ee-4d59-8b4d-2fec1531a4fc
+[15:39:49] [Server thread/INFO]: GamyYT[/[2a01:5241:1404:1100:bd6a:6af2:b5e:65e9]:57662] logged in with entity id 76705 at (730.1928704702077, 110.0, -811.2542716077595)
+[15:39:49] [Server thread/INFO]: GamyYT joined the game
+[15:44:55] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[15:44:55] [Server thread/INFO]: CSkiller07 left the game
+[15:45:34] [User Authenticator #9/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[15:45:35] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:56162] logged in with entity id 81318 at (185.82662992514602, -13.0, -584.6748395457039)
+[15:45:35] [Server thread/INFO]: CSkiller07 joined the game
+[15:45:36] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[15:45:36] [Server thread/INFO]: CSkiller07 left the game
+[15:45:49] [User Authenticator #10/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[15:45:49] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:56188] logged in with entity id 81671 at (185.82662992514602, -13.0, -584.6748395457039)
+[15:45:49] [Server thread/INFO]: CSkiller07 joined the game
+[15:45:51] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[15:45:51] [Server thread/INFO]: CSkiller07 left the game
+[15:45:57] [User Authenticator #11/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[15:45:57] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:56212] logged in with entity id 82065 at (186.96294654318478, -13.0, -585.6596519681987)
+[15:45:57] [Server thread/INFO]: CSkiller07 joined the game
+[15:45:59] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[15:45:59] [Server thread/INFO]: CSkiller07 left the game
+[15:46:24] [User Authenticator #12/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[15:46:24] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:56240] logged in with entity id 82758 at (187.65404035449347, -13.0, -588.0676302322548)
+[15:46:24] [Server thread/INFO]: CSkiller07 joined the game
+[15:46:25] [Server thread/INFO]: CSkiller07 was slain by Zombie
+[15:47:50] [Server thread/INFO]: GamyYT lost connection: Disconnected
+[15:47:50] [Server thread/INFO]: GamyYT left the game
+[15:48:16] [User Authenticator #13/INFO]: UUID of player Superkuba07 is 409bb356-398c-45b4-93a9-b757218056d2
+[15:48:19] [Server thread/INFO]: Superkuba07[/127.0.0.1:58270] logged in with entity id 84750 at (474.8408163712411, 64.0, -435.1267632381173)
+[15:48:19] [Server thread/INFO]: Superkuba07 joined the game
+[15:53:12] [Server thread/INFO]: CSkiller07 was slain by Zombie
+[16:09:17] [Server thread/WARN]: Superkuba07 moved too quickly! 10.14403532174208,1.1104138330151514,1.445731042048351
+[16:15:03] [Server thread/INFO]: CSkiller07 has made the advancement [Who Needs Rockets?]
+[16:32:28] [User Authenticator #14/INFO]: UUID of player Erempla is 80f861d2-6903-4686-98a3-99e71cf7fefb
+[16:32:28] [Server thread/INFO]: Erempla[/[2003:106:5733:3c9d:9cde:81d2:6595:c46a]:58321] logged in with entity id 104995 at (875.8672246805337, 117.0, -1056.527278294583)
+[16:32:28] [Server thread/INFO]: Erempla joined the game
+[16:33:51] [Server thread/INFO]: Villager cuf['Farmer'/105137, l='ServerLevel[world]', x=850.30, y=120.00, z=-1034.84] died, message: 'Farmer was slain by Zombie'
+[16:33:54] [Server thread/INFO]: Villager cuf['Leatherworker'/105138, l='ServerLevel[world]', x=850.30, y=120.00, z=-1034.34] died, message: 'Leatherworker was slain by Zombie Villager'
+[16:34:19] [Server thread/INFO]: Villager cuf['Leatherworker'/105139, l='ServerLevel[world]', x=845.75, y=118.00, z=-1018.32] died, message: 'Leatherworker was slain by Zombie Villager'
+[16:45:32] [Server thread/WARN]: CSkiller07 moved too quickly! -1.1332195485385341,0.5126516664929355,11.063326017860163
+[16:51:36] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[16:51:36] [Server thread/INFO]: CSkiller07 left the game
+[16:56:55] [Server thread/INFO]: Superkuba07 lost connection: Disconnected
+[16:56:55] [Server thread/INFO]: Superkuba07 left the game
+[16:56:57] [Server thread/INFO]: Erempla lost connection: Disconnected
+[16:56:57] [Server thread/INFO]: Erempla left the game
+[16:57:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:10:39] [User Authenticator #15/INFO]: UUID of player CSkiller07 is 1081f3a4-0bf4-4ac5-a30b-dad865a1c883
+[17:10:39] [Server thread/INFO]: CSkiller07[/[2a0a:a548:96f:0:6c36:4a3c:133:7c3a]:57583] logged in with entity id 125275 at (837.4652270553256, 120.0, -1046.6240843747846)
+[17:10:39] [Server thread/INFO]: CSkiller07 joined the game
+[17:14:17] [Server thread/WARN]: CSkiller07 moved too quickly! -7.495153095387479,1.0759908057881873,6.841740339025591
+[17:17:01] [Server thread/INFO]: CSkiller07 has completed the challenge [Over-Overkill]
+[17:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=33, z=-83} jb{x=79, y=30, z=-83}
+[17:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=33, z=-83} jb{x=79, y=30, z=-83}
+[17:50:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=29, z=-83} jb{x=79, y=31, z=-84}
+[17:50:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=29, z=-83} jb{x=79, y=31, z=-84}
+[17:50:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=29, z=-83} jb{x=79, y=31, z=-84}
+[17:50:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=29, z=-83} jb{x=79, y=31, z=-84}
+[17:50:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=29, z=-83} jb{x=79, y=31, z=-84}
+[17:51:13] [Server thread/INFO]: CSkiller07 has made the advancement [Hidden in the Depths]
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=93, y=15, z=-95} jb{x=94, y=15, z=-95}
+[17:51:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=98, y=14, z=-109} jb{x=98, y=14, z=-111}
+[17:51:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=98, y=14, z=-109} jb{x=98, y=14, z=-111}
+[17:52:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=100, y=20, z=-132} jb{x=100, y=20, z=-136}
+[17:52:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=100, y=20, z=-132} jb{x=100, y=20, z=-136}
+[17:52:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=107, y=17, z=-133} jb{x=108, y=16, z=-133}
+[17:52:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=107, y=17, z=-133} jb{x=108, y=16, z=-133}
+[17:52:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=15, z=-133} jb{x=108, y=16, z=-133}
+[17:52:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=15, z=-141} jb{x=108, y=14, z=-140}
+[17:52:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=15, z=-141} jb{x=108, y=14, z=-140}
+[17:52:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=15, z=-141} jb{x=108, y=14, z=-140}
+[17:52:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=17, z=-144} jb{x=112, y=19, z=-144}
+[17:52:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=17, z=-144} jb{x=112, y=19, z=-144}
+[17:52:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=108, y=17, z=-144} jb{x=112, y=19, z=-144}
+[17:52:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=135, y=15, z=-143} jb{x=134, y=15, z=-142}
+[17:52:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=135, y=15, z=-143} jb{x=134, y=15, z=-142}
+[17:52:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=136, y=15, z=-143} jb{x=135, y=14, z=-143}
+[17:52:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=136, y=15, z=-143} jb{x=135, y=14, z=-143}
+[17:52:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=143, y=9, z=-149} jb{x=143, y=11, z=-149}
+[17:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=15, z=-149} jb{x=147, y=13, z=-149}
+[17:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=15, z=-149} jb{x=147, y=13, z=-149}
+[17:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=15, z=-149} jb{x=147, y=13, z=-149}
+[17:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=15, z=-149} jb{x=147, y=13, z=-149}
+[17:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=15, z=-149} jb{x=147, y=13, z=-149}
+[17:53:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=154, y=19, z=-157} jb{x=153, y=19, z=-157}
+[17:53:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=154, y=19, z=-157} jb{x=153, y=19, z=-157}
+[17:53:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=154, y=19, z=-157} jb{x=153, y=19, z=-157}
+[17:53:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=154, y=19, z=-157} jb{x=153, y=19, z=-157}
+[17:53:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=154, y=19, z=-157} jb{x=153, y=19, z=-157}
+[17:54:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=20, z=-165} jb{x=129, y=18, z=-165}
+[17:54:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=20, z=-165} jb{x=129, y=18, z=-165}
+[17:54:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=130, y=20, z=-165} jb{x=128, y=21, z=-165}
+[17:54:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=123, y=18, z=-169} jb{x=124, y=19, z=-170}
+[17:55:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=109, y=7, z=-191} jb{x=109, y=6, z=-191}
+[17:55:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=123, y=10, z=-182} jb{x=123, y=11, z=-184}
+[17:55:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=123, y=15, z=-151} jb{x=123, y=14, z=-150}
+[17:56:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=99, y=12, z=-146} jb{x=97, y=12, z=-146}
+[17:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=81, y=16, z=-116} jb{x=79, y=16, z=-117}
+[17:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=81, y=16, z=-116} jb{x=79, y=16, z=-117}
+[17:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=81, y=16, z=-116} jb{x=79, y=16, z=-117}
+[17:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=81, y=16, z=-116} jb{x=79, y=16, z=-117}
+[17:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=81, y=16, z=-116} jb{x=79, y=16, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=75, y=17, z=-117} jb{x=74, y=17, z=-117}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:57:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=72, y=19, z=-117} jb{x=71, y=18, z=-118}
+[17:58:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=22, y=15, z=-126} jb{x=23, y=14, z=-126}
+[17:58:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=26, y=17, z=-123} jb{x=26, y=16, z=-122}
+[17:58:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=26, y=17, z=-123} jb{x=26, y=16, z=-122}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=13, z=-116} jb{x=30, y=14, z=-117}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=29, y=15, z=-117} jb{x=28, y=15, z=-118}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=29, y=15, z=-117} jb{x=28, y=14, z=-118}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=31, y=14, z=-120} jb{x=29, y=15, z=-118}
+[17:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=31, y=14, z=-120} jb{x=29, y=15, z=-118}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=14, z=-107} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=41, y=12, z=-105} jb{x=41, y=13, z=-106}
+[17:59:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=83, y=10, z=-105} jb{x=82, y=9, z=-105}
+[17:59:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=83, y=10, z=-105} jb{x=82, y=9, z=-105}
+[17:59:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=83, y=10, z=-105} jb{x=82, y=9, z=-105}
+[17:59:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=95, y=11, z=-102} jb{x=95, y=10, z=-100}
+[17:59:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=95, y=11, z=-102} jb{x=95, y=10, z=-100}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:00:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=10, z=-95} jb{x=127, y=9, z=-95}
+[18:01:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=55, y=27, z=-64} jb{x=55, y=28, z=-63}
+[18:01:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=55, y=27, z=-64} jb{x=55, y=28, z=-63}
+[18:01:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=55, y=27, z=-64} jb{x=55, y=28, z=-63}
+[18:01:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=55, y=27, z=-64} jb{x=55, y=28, z=-63}
+[18:01:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=55, y=27, z=-64} jb{x=55, y=28, z=-63}
+[18:09:18] [Server thread/INFO]: CSkiller07 has completed the challenge [Serious Dedication]
+[18:09:25] [Server thread/INFO]: CSkiller07 has completed the challenge [Cover Me in Debris]
+[18:23:23] [Server thread/INFO]: CSkiller07 lost connection: Disconnected
+[18:23:23] [Server thread/INFO]: CSkiller07 left the game
+[18:24:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:41:51] [Server thread/INFO]: Stopping the server
+[18:41:51] [Server thread/INFO]: Stopping server
+[18:41:51] [Server thread/INFO]: Saving players
+[18:41:51] [Server thread/INFO]: Saving worlds
+[18:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
